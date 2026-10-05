@@ -1,0 +1,27 @@
+Source used: google_news
+Kept: 44   Blocked: 16
+
+Kept, by section:
+    44  (unknown)
+
+Blocked, by reason:
+    15  sports headline
+     1  national headline
+
+Blocked headlines (check for false positives):
+  [sports headline] 49ers’ George Kittle pleasantly surprised by defensive setup on long TD catch
+  [sports headline] After terrorizing old team, 49ers’ Dre Greenlaw said he was fueled by Sean Payton’s ‘disrespect’
+  [sports headline] Valkyries’ aggression pays off with decisive Game 1 win over Aces in WNBA semifinals
+  [sports headline] Warriors unveil Steve Kerr’s new style of offense in preseason opener. It wasn’t pretty
+  [sports headline] ‘Gabby F—ing Williams’ is here: Valkyries star seizes WNBA spotlight in win over Aces
+  [sports headline] Valkyries’ Natalie Nakase takes steps to monitor her health after on-court scare
+  [sports headline] ‘We won’t play’: Salary cap impasse overshadows 2027 MLB season
+  [sports headline] 49ers’ Upton Stout reminds Raheem Morris of a Hall of Fame cornerback
+  [sports headline] Warriors’ Jimmy Butler has stayed active at training camp in Hawaii despite ACL rehab
+  [sports headline] Valkyries to face defending-champion Aces, questions in semifinals
+  [sports headline] 49ers’ 3-0 start inspires questions. Broncos can provide answers Sunday
+  [sports headline] Do or die? Valkyries win first-ever playoff series with epic comeback. Bring on the Aces!
+  [sports headline] Valkyries coach Natalie Nakase collapses during fourth-quarter comeback
+  [sports headline] Stunning comeback as Valkyries erase 16-point deficit to down Wings, advance to semifinals
+  [sports headline] Why Yaxel Lendeborg is already calling Warriors’ Draymond Green ‘my cheat sheet’
+  [national headline] Trump is auto-enrolling your kid in this program — and it may create tax consequences for you
