@@ -1,12 +1,11 @@
 Source used: google_news
-Kept: 44   Blocked: 16
+Kept: 42   Blocked: 15
 
 Kept, by section:
-    44  (unknown)
+    42  (unknown)
 
 Blocked, by reason:
     15  sports headline
-     1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers’ George Kittle pleasantly surprised by defensive setup on long TD catch
@@ -24,4 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries coach Natalie Nakase collapses during fourth-quarter comeback
   [sports headline] Stunning comeback as Valkyries erase 16-point deficit to down Wings, advance to semifinals
   [sports headline] Why Yaxel Lendeborg is already calling Warriors’ Draymond Green ‘my cheat sheet’
-  [national headline] Trump is auto-enrolling your kid in this program — and it may create tax consequences for you
