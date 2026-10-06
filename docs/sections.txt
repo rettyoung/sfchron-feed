@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 45   Blocked: 14
+Kept: 43   Blocked: 13
 
 Kept, by section:
-    45  (unknown)
+    43  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    13  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers’ George Kittle pleasantly surprised by defensive setup on long TD catch
@@ -21,4 +21,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries to face defending-champion Aces, questions in semifinals
   [sports headline] 49ers’ 3-0 start inspires questions. Broncos can provide answers Sunday
   [sports headline] Do or die? Valkyries win first-ever playoff series with epic comeback. Bring on the Aces!
-  [sports headline] Valkyries coach Natalie Nakase collapses during fourth-quarter comeback
