@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 49   Blocked: 15
+Kept: 48   Blocked: 16
 
 Kept, by section:
-    49  (unknown)
+    48  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    15  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Some Giants officials see next season looking like 2008 or ’09. Here’s what that could mean
   [sports headline] Could 49ers get anything for WR Brandon Aiyuk in a trade before the deadline?
   [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
   [sports headline] Yaxel Lendeborg’s challenge? Run Warriors when Curry sits. But first, fetch waters, rookie
