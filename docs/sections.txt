@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 49   Blocked: 14
+Kept: 49   Blocked: 15
 
 Kept, by section:
     49  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    14  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Could 49ers get anything for WR Brandon Aiyuk in a trade before the deadline?
   [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
   [sports headline] Yaxel Lendeborg’s challenge? Run Warriors when Curry sits. But first, fetch waters, rookie
   [sports headline] 49ers FB Kyle Juszczyk to miss ‘a few’ weeks; D-line to get reinforcement?
