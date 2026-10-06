@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 49   Blocked: 15
+Kept: 49   Blocked: 14
 
 Kept, by section:
     49  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    13  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -23,4 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries’ Natalie Nakase takes steps to monitor her health after on-court scare
   [sports headline] ‘We won’t play’: Salary cap impasse overshadows 2027 MLB season
   [sports headline] Warriors’ Jimmy Butler has stayed active at training camp in Hawaii despite ACL rehab
-  [sports headline] Valkyries to face defending-champion Aces, questions in semifinals
