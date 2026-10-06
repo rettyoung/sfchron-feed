@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 47   Blocked: 16
+Kept: 45   Blocked: 15
 
 Kept, by section:
-    47  (unknown)
+    45  (unknown)
 
 Blocked, by reason:
-    16  sports headline
+    15  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
@@ -23,4 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] ‘We won’t play’: Salary cap impasse overshadows 2027 MLB season
   [sports headline] Warriors’ Jimmy Butler has stayed active at training camp in Hawaii despite ACL rehab
   [sports headline] Valkyries to face defending-champion Aces, questions in semifinals
-  [sports headline] 49ers’ 3-0 start inspires questions. Broncos can provide answers Sunday
