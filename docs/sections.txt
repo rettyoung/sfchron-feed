@@ -8,16 +8,16 @@ Blocked, by reason:
     13  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
   [sports headline] 49ers’ George Kittle pleasantly surprised by defensive setup on long TD catch
   [sports headline] After terrorizing old team, 49ers’ Dre Greenlaw said he was fueled by Sean Payton’s ‘disrespect’
-  [sports headline] Valkyries’ aggression pays off with decisive Game 1 win over Aces in WNBA semifinals
   [sports headline] Warriors unveil Steve Kerr’s new style of offense in preseason opener. It wasn’t pretty
   [sports headline] ‘Gabby F—ing Williams’ is here: Valkyries star seizes WNBA spotlight in win over Aces
   [sports headline] 49ers move up to 4-0 after thwarting high-flying Broncos in bruising 24-14 win
+  [sports headline] Valkyries’ aggression pays off with decisive Game 1 win over Aces in WNBA semifinals
   [sports headline] Valkyries’ Natalie Nakase takes steps to monitor her health after on-court scare
   [sports headline] ‘We won’t play’: Salary cap impasse overshadows 2027 MLB season
   [sports headline] 49ers’ Upton Stout reminds Raheem Morris of a Hall of Fame cornerback
   [sports headline] Warriors’ Jimmy Butler has stayed active at training camp in Hawaii despite ACL rehab
   [sports headline] Valkyries to face defending-champion Aces, questions in semifinals
   [sports headline] 49ers’ 3-0 start inspires questions. Broncos can provide answers Sunday
-  [sports headline] Do or die? Valkyries win first-ever playoff series with epic comeback. Bring on the Aces!
