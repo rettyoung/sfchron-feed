@@ -1,24 +1,26 @@
 Source used: google_news
-Kept: 46   Blocked: 14
+Kept: 46   Blocked: 15
 
 Kept, by section:
     46  (unknown)
 
 Blocked, by reason:
     14  sports headline
+     1  national headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii - sfchronicle.com
-  [sports headline] Yaxel Lendeborg’s challenge? Run Warriors when Curry sits. But first, fetch waters, rookie - sfchronicle.com
-  [sports headline] 49ers FB Kyle Juszczyk to miss ‘a few’ weeks; D-line to get reinforcement? - sfchronicle.com
-  [sports headline] Why the 49ers think Siran Neal delivered play of the game in win over Broncos - sfchronicle.com
-  [sports headline] 49ers’ George Kittle pleasantly surprised by defensive setup on long TD catch - sfchronicle.com
-  [sports headline] After terrorizing old team, 49ers’ Dre Greenlaw said he was fueled by Sean Payton’s ‘disrespect’ - sfchronicle.com
-  [sports headline] 49ers’ Upton Stout reminds Raheem Morris of a Hall of Fame cornerback - sfchronicle.com
-  [sports headline] Warriors unveil Steve Kerr’s new style of offense in preseason opener. It wasn’t pretty - sfchronicle.com
-  [sports headline] 49ers move up to 4-0 after thwarting high-flying Broncos in bruising 24-14 win - sfchronicle.com
-  [sports headline] Valkyries’ aggression pays off with decisive Game 1 win over Aces in WNBA semifinals - sfchronicle.com
-  [sports headline] Valkyries’ Natalie Nakase takes steps to monitor her health after on-court scare - sfchronicle.com
-  [sports headline] ‘We won’t play’: Salary cap impasse overshadows 2027 MLB season - sfchronicle.com
-  [sports headline] Warriors’ Jimmy Butler has stayed active at training camp in Hawaii despite ACL rehab - sfchronicle.com
-  [sports headline] Valkyries to face defending-champion Aces, questions in semifinals - sfchronicle.com
+  [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
+  [sports headline] Yaxel Lendeborg’s challenge? Run Warriors when Curry sits. But first, fetch waters, rookie
+  [sports headline] 49ers FB Kyle Juszczyk to miss ‘a few’ weeks; D-line to get reinforcement?
+  [national headline] Key Theranos figure’s appeal denied by U.S. Supreme Court
+  [sports headline] Why the 49ers think Siran Neal delivered play of the game in win over Broncos
+  [sports headline] 49ers’ George Kittle pleasantly surprised by defensive setup on long TD catch
+  [sports headline] After terrorizing old team, 49ers’ Dre Greenlaw said he was fueled by Sean Payton’s ‘disrespect’
+  [sports headline] 49ers’ Upton Stout reminds Raheem Morris of a Hall of Fame cornerback
+  [sports headline] Warriors unveil Steve Kerr’s new style of offense in preseason opener. It wasn’t pretty
+  [sports headline] 49ers move up to 4-0 after thwarting high-flying Broncos in bruising 24-14 win
+  [sports headline] Valkyries’ aggression pays off with decisive Game 1 win over Aces in WNBA semifinals
+  [sports headline] Valkyries’ Natalie Nakase takes steps to monitor her health after on-court scare
+  [sports headline] ‘We won’t play’: Salary cap impasse overshadows 2027 MLB season
+  [sports headline] Warriors’ Jimmy Butler has stayed active at training camp in Hawaii despite ACL rehab
+  [sports headline] Valkyries to face defending-champion Aces, questions in semifinals
