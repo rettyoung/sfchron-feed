@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 48   Blocked: 15
+Kept: 48   Blocked: 16
 
 Kept, by section:
     48  (unknown)
 
 Blocked, by reason:
-    15  sports headline
+    16  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
@@ -19,6 +19,7 @@ Blocked headlines (check for false positives):
   [sports headline] ‘Gabby F—ing Williams’ is here: Valkyries star seizes WNBA spotlight in win over Aces
   [sports headline] 49ers move up to 4-0 after thwarting high-flying Broncos in bruising 24-14 win
   [sports headline] Valkyries’ aggression pays off with decisive Game 1 win over Aces in WNBA semifinals
+  [sports headline] Valkyries’ Natalie Nakase takes steps to monitor her health after on-court scare
   [sports headline] ‘We won’t play’: Salary cap impasse overshadows 2027 MLB season
   [sports headline] Warriors’ Jimmy Butler has stayed active at training camp in Hawaii despite ACL rehab
   [sports headline] Valkyries to face defending-champion Aces, questions in semifinals
