@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 45   Blocked: 13
+Kept: 46   Blocked: 12
 
 Kept, by section:
-    45  (unknown)
+    46  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    12  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
@@ -14,7 +14,6 @@ Blocked headlines (check for false positives):
   [sports headline] Warriors unveil Steve Kerr’s new style of offense in preseason opener. It wasn’t pretty
   [sports headline] ‘Gabby F—ing Williams’ is here: Valkyries star seizes WNBA spotlight in win over Aces
   [sports headline] 49ers move up to 4-0 after thwarting high-flying Broncos in bruising 24-14 win
-  [sports headline] Valkyries’ aggression pays off with decisive Game 1 win over Aces in WNBA semifinals
   [sports headline] Valkyries’ Natalie Nakase takes steps to monitor her health after on-court scare
   [sports headline] ‘We won’t play’: Salary cap impasse overshadows 2027 MLB season
   [sports headline] 49ers’ Upton Stout reminds Raheem Morris of a Hall of Fame cornerback
