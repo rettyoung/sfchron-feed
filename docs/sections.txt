@@ -1,17 +1,16 @@
 Source used: google_news
-Kept: 56   Blocked: 14
+Kept: 56   Blocked: 13
 
 Kept, by section:
     56  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+    11  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Valkyries’ Natalie Nakase is learning her limits: ‘I don’t know how to turn it off’
   [national headline] Trump’s ‘take out’ L.A. and San Diego quip lands with a thud for Steve Hilton
-  [sports headline] Some Giants officials see next season looking like 2008 or ’09. Here’s what that could mean
   [sports headline] Could 49ers get anything for WR Brandon Aiyuk in a trade before the deadline?
   [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
   [sports headline] Yaxel Lendeborg’s challenge? Run Warriors when Curry sits. But first, fetch waters, rookie
