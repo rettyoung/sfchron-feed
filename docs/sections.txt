@@ -1,18 +1,17 @@
 Source used: google_news
-Kept: 48   Blocked: 14
+Kept: 49   Blocked: 12
 
 Kept, by section:
-    48  (unknown)
+    49  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    11  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Some Giants officials see next season looking like 2008 or ’09. Here’s what that could mean
   [sports headline] Could 49ers get anything for WR Brandon Aiyuk in a trade before the deadline?
   [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
-  [sports headline] Yaxel Lendeborg’s challenge? Run Warriors when Curry sits. But first, fetch waters, rookie
   [sports headline] 49ers FB Kyle Juszczyk to miss ‘a few’ weeks; D-line to get reinforcement?
   [national headline] Key Theranos figure’s appeal denied by U.S. Supreme Court
   [sports headline] Why the 49ers think Siran Neal delivered play of the game in win over Broncos
@@ -22,4 +21,3 @@ Blocked headlines (check for false positives):
   [sports headline] ‘Gabby F—ing Williams’ is here: Valkyries star seizes WNBA spotlight in win over Aces
   [sports headline] Valkyries’ aggression pays off with decisive Game 1 win over Aces in WNBA semifinals
   [sports headline] ‘We won’t play’: Salary cap impasse overshadows 2027 MLB season
-  [sports headline] Warriors’ Jimmy Butler has stayed active at training camp in Hawaii despite ACL rehab
