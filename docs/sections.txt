@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 51   Blocked: 14
+Kept: 48   Blocked: 13
 
 Kept, by section:
-    51  (unknown)
+    48  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+    11  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
@@ -22,4 +22,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers’ Upton Stout reminds Raheem Morris of a Hall of Fame cornerback
   [sports headline] Warriors unveil Steve Kerr’s new style of offense in preseason opener. It wasn’t pretty
   [sports headline] Valkyries’ aggression pays off with decisive Game 1 win over Aces in WNBA semifinals
-  [sports headline] ‘We won’t play’: Salary cap impasse overshadows 2027 MLB season
