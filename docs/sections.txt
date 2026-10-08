@@ -9,7 +9,7 @@ Blocked, by reason:
      2  national headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Violet, the Valkyries’ ‘bestie,’ is the life of the team’s playoff party
+  [sports headline] Tiffany Hayes took a leap of faith for Valkyries. Now she has them one win from the Finals
   [sports headline] Valkyries fend off Aces’ comeback, head to Las Vegas up 2-0 after Veronica Burton’s clutch three
   [sports headline] After big-game beatdowns, 49ers’ thoughts on Seahawks are hard to believe
   [sports headline] 49ers top pick Mykel Williams eager to make up for disappointing rookie season
