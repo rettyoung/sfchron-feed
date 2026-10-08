@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 52   Blocked: 15
+Kept: 52   Blocked: 14
 
 Kept, by section:
     52  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    12  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
@@ -23,4 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] Yaxel Lendeborg’s challenge? Run Warriors when Curry sits. But first, fetch waters, rookie
   [sports headline] 49ers FB Kyle Juszczyk to miss ‘a few’ weeks; D-line to get reinforcement?
   [national headline] Key Theranos figure’s appeal denied by U.S. Supreme Court
-  [sports headline] The Valkyries’ playoff run is drawing some of the Bay Area’s biggest stars
