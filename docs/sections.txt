@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 57   Blocked: 11
+Kept: 57   Blocked: 10
 
 Kept, by section:
     57  (unknown)
 
 Blocked, by reason:
-     9  sports headline
+     8  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
@@ -19,4 +19,3 @@ Blocked headlines (check for false positives):
   [sports headline] The Valkyries’ playoff run is drawing some of the Bay Area’s biggest stars
   [sports headline] Why the 49ers think Siran Neal delivered play of the game in win over Broncos
   [sports headline] 49ers’ George Kittle pleasantly surprised by defensive setup on long TD catch
-  [sports headline] 49ers’ Upton Stout reminds Raheem Morris of a Hall of Fame cornerback
