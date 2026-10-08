@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 58   Blocked: 10
+Kept: 56   Blocked: 10
 
 Kept, by section:
-    58  (unknown)
+    56  (unknown)
 
 Blocked, by reason:
      8  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Valkyries fend off Aces’ comeback, head to Las Vegas up 2-0 after Veronica Burton’s clutch three
   [sports headline] Valkyries’ Natalie Nakase is learning her limits: ‘I don’t know how to turn it off’
   [national headline] Trump’s ‘take out’ L.A. and San Diego quip lands with a thud for Steve Hilton
   [sports headline] Could 49ers get anything for WR Brandon Aiyuk in a trade before the deadline?
@@ -18,4 +19,3 @@ Blocked headlines (check for false positives):
   [national headline] Key Theranos figure’s appeal denied by U.S. Supreme Court
   [sports headline] The Valkyries’ playoff run is drawing some of the Bay Area’s biggest stars
   [sports headline] Why the 49ers think Siran Neal delivered play of the game in win over Broncos
-  [sports headline] 49ers’ George Kittle pleasantly surprised by defensive setup on long TD catch
