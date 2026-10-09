@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 48   Blocked: 10
+Kept: 48   Blocked: 9
 
 Kept, by section:
     48  (unknown)
 
 Blocked, by reason:
-     9  sports headline
+     8  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -18,4 +18,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries’ Natalie Nakase is learning her limits: ‘I don’t know how to turn it off’
   [national headline] Trump’s ‘take out’ L.A. and San Diego quip lands with a thud for Steve Hilton
   [sports headline] Could 49ers get anything for WR Brandon Aiyuk in a trade before the deadline?
-  [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
