@@ -1,16 +1,15 @@
 Source used: google_news
-Kept: 51   Blocked: 13
+Kept: 51   Blocked: 10
 
 Kept, by section:
     51  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+     9  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Tiffany Hayes took a leap of faith for Valkyries. Now she has them one win from the Finals
-  [sports headline] Violet, the Valkyries’ ‘bestie,’ is the life of the team’s playoff party
   [sports headline] Valkyries fend off Aces’ comeback, head to Las Vegas up 2-0 after Veronica Burton’s clutch three
   [sports headline] After big-game beatdowns, 49ers’ thoughts on Seahawks are hard to believe
   [sports headline] 49ers top pick Mykel Williams eager to make up for disappointing rookie season
@@ -20,5 +19,3 @@ Blocked headlines (check for false positives):
   [national headline] Trump’s ‘take out’ L.A. and San Diego quip lands with a thud for Steve Hilton
   [sports headline] Could 49ers get anything for WR Brandon Aiyuk in a trade before the deadline?
   [sports headline] Why Warriors spent in the ‘seven figures’ to have training camp in Hawaii
-  [sports headline] Yaxel Lendeborg’s challenge? Run Warriors when Curry sits. But first, fetch waters, rookie
-  [sports headline] 49ers FB Kyle Juszczyk to miss ‘a few’ weeks; D-line to get reinforcement?
