@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 51   Blocked: 10
+Kept: 51   Blocked: 11
 
 Kept, by section:
     51  (unknown)
 
 Blocked, by reason:
-     9  sports headline
+    10  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] De La Salle basketball star, son of a Warriors champion, commits to USF
   [sports headline] Inside Joe Lacob’s vision for Warriors: Curry’s sacrifice, cap space and what’s next
   [sports headline] Tiffany Hayes took a leap of faith for Valkyries. Now she has them one win from the Finals
   [sports headline] Valkyries fend off Aces’ comeback, head to Las Vegas up 2-0 after Veronica Burton’s clutch three
