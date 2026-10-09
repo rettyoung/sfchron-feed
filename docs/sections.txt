@@ -1,17 +1,16 @@
 Source used: google_news
-Kept: 48   Blocked: 11
+Kept: 51   Blocked: 10
 
 Kept, by section:
-    48  (unknown)
+    51  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+     9  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Inside Joe Lacob’s vision for Warriors: Curry’s sacrifice, cap space and what’s next
   [sports headline] Tiffany Hayes took a leap of faith for Valkyries. Now she has them one win from the Finals
-  [sports headline] How upstart Valkyries defied logic to push Aces dynasty to brink of elimination
   [sports headline] Valkyries fend off Aces’ comeback, head to Las Vegas up 2-0 after Veronica Burton’s clutch three
   [sports headline] After big-game beatdowns, 49ers’ thoughts on Seahawks are hard to believe
   [sports headline] 49ers top pick Mykel Williams eager to make up for disappointing rookie season
