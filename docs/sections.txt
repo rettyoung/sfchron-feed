@@ -1,12 +1,12 @@
 Source used: google_news
-Kept: 40   Blocked: 12
+Kept: 39   Blocked: 11
 
 Kept, by section:
-    40  (unknown)
+    39  (unknown)
 
 Blocked, by reason:
     10  sports headline
-     2  national headline
+     1  national headline
 
 Blocked headlines (check for false positives):
   [national headline] Letters: Democrats should stop and listen to what Trump really said about L.A. and San Diego
@@ -20,4 +20,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries owner Joe Lacob tried to be less emotional about his WNBA team. It’s not working
   [sports headline] Aggressive Yaxel Lendeborg helps Warriors drub short-handed Lakers in preseason home opener
   [sports headline] Valkyries’ Natalie Nakase is learning her limits: ‘I don’t know how to turn it off’
-  [national headline] Trump’s ‘take out’ L.A. and San Diego quip lands with a thud for Steve Hilton
