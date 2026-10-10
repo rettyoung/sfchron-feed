@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 38   Blocked: 14
+Kept: 39   Blocked: 13
 
 Kept, by section:
-    38  (unknown)
+    39  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    12  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -15,7 +15,6 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
   [sports headline] Valkyries prove big dreams can come true by reaching WNBA Finals in Year 2
   [sports headline] Doja Cat’s San Francisco concert moved after Valkyries reach WNBA Finals
-  [sports headline] Who are the Warriors’ rotation risers and fallers after initial preseason games?
   [national headline] Letters: Democrats should stop and listen to what Trump really said about L.A. and San Diego
   [sports headline] Inside Joe Lacob’s vision for Warriors: Curry’s sacrifice, cap space and what’s next
   [sports headline] How to solve Seahawks’ defense? 49ers’ Kyle Shanahan has admitted he’s not one to ask
