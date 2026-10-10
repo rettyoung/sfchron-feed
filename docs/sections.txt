@@ -1,15 +1,14 @@
 Source used: google_news
-Kept: 38   Blocked: 12
+Kept: 37   Blocked: 11
 
 Kept, by section:
-    38  (unknown)
+    37  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    10  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Valkyries prove big dreams can come true by reaching WNBA Finals in Year 2
   [national headline] Letters: Democrats should stop and listen to what Trump really said about L.A. and San Diego
   [sports headline] De La Salle basketball star, son of a Warriors champion, commits to USF
   [sports headline] Inside Joe Lacob’s vision for Warriors: Curry’s sacrifice, cap space and what’s next
