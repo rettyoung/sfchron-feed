@@ -1,15 +1,16 @@
 Source used: google_news
-Kept: 40   Blocked: 14
+Kept: 40   Blocked: 15
 
 Kept, by section:
     40  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    14  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
+  [sports headline] What Bruce Jenkins is watching in new NBA season starts with Warriors’ Yaxel Lendeborg
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
   [sports headline] Valkyries prove big dreams can come true by reaching WNBA Finals in Year 2
   [sports headline] Doja Cat’s San Francisco concert moved after Valkyries reach WNBA Finals
