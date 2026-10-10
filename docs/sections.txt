@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 37   Blocked: 12
+Kept: 37   Blocked: 11
 
 Kept, by section:
     37  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    10  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -20,4 +20,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries fend off Aces’ comeback, head to Las Vegas up 2-0 after Veronica Burton’s clutch three
   [sports headline] After big-game beatdowns, 49ers’ thoughts on Seahawks are hard to believe
   [sports headline] 49ers top pick Mykel Williams eager to make up for disappointing rookie season
-  [sports headline] Valkyries owner Joe Lacob tried to be less emotional about his WNBA team. It’s not working
