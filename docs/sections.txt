@@ -9,6 +9,7 @@ Blocked, by reason:
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Warriors to sign guard Brandin Podziemski to five-year, $110 million extension
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] What Bruce Jenkins is watching in new NBA season starts with Warriors’ Yaxel Lendeborg
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
@@ -16,7 +17,6 @@ Blocked headlines (check for false positives):
   [sports headline] Doja Cat’s San Francisco concert moved after Valkyries reach WNBA Finals
   [sports headline] Who are the Warriors’ rotation risers and fallers after initial preseason games?
   [national headline] Letters: Democrats should stop and listen to what Trump really said about L.A. and San Diego
-  [sports headline] De La Salle basketball star, son of a Warriors champion, commits to USF
   [sports headline] Inside Joe Lacob’s vision for Warriors: Curry’s sacrifice, cap space and what’s next
   [sports headline] How to solve Seahawks’ defense? 49ers’ Kyle Shanahan has admitted he’s not one to ask
   [sports headline] Tiffany Hayes took a leap of faith for Valkyries. Now she has them one win from the Finals
