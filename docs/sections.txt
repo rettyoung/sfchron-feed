@@ -1,19 +1,19 @@
 Source used: google_news
-Kept: 41   Blocked: 10
+Kept: 42   Blocked: 10
 
 Kept, by section:
-    41  (unknown)
+    42  (unknown)
 
 Blocked, by reason:
      9  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Valkyries prove big dreams can come true by reaching WNBA Finals in Year 2
   [national headline] Letters: Democrats should stop and listen to what Trump really said about L.A. and San Diego
   [sports headline] De La Salle basketball star, son of a Warriors champion, commits to USF
   [sports headline] Inside Joe Lacob’s vision for Warriors: Curry’s sacrifice, cap space and what’s next
   [sports headline] How to solve Seahawks’ defense? 49ers’ Kyle Shanahan has admitted he’s not one to ask
-  [sports headline] 49ers DE Romello Height inspired by Patrick Willis to play through broken hand
   [sports headline] Tiffany Hayes took a leap of faith for Valkyries. Now she has them one win from the Finals
   [sports headline] How upstart Valkyries defied logic to push Aces dynasty to brink of elimination
   [sports headline] Valkyries fend off Aces’ comeback, head to Las Vegas up 2-0 after Veronica Burton’s clutch three
