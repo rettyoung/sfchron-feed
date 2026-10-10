@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 43   Blocked: 12
+Kept: 40   Blocked: 11
 
 Kept, by section:
-    43  (unknown)
+    40  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    10  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -20,4 +20,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers top pick Mykel Williams eager to make up for disappointing rookie season
   [sports headline] Valkyries owner Joe Lacob tried to be less emotional about his WNBA team. It’s not working
   [sports headline] Aggressive Yaxel Lendeborg helps Warriors drub short-handed Lakers in preseason home opener
-  [sports headline] Valkyries’ Natalie Nakase is learning her limits: ‘I don’t know how to turn it off’
