@@ -1,17 +1,18 @@
 Source used: google_news
-Kept: 38   Blocked: 11
+Kept: 37   Blocked: 12
 
 Kept, by section:
-    38  (unknown)
+    37  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+    11  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [national headline] Letters: Democrats should stop and listen to what Trump really said about L.A. and San Diego
   [sports headline] De La Salle basketball star, son of a Warriors champion, commits to USF
   [sports headline] Inside Joe Lacob’s vision for Warriors: Curry’s sacrifice, cap space and what’s next
+  [sports headline] What’s up with Kristaps Porzingis? It seems like even the Warriors don’t know
   [sports headline] 49ers DE Romello Height inspired by Patrick Willis to play through broken hand
   [sports headline] Tiffany Hayes took a leap of faith for Valkyries. Now she has them one win from the Finals
   [sports headline] How upstart Valkyries defied logic to push Aces dynasty to brink of elimination
