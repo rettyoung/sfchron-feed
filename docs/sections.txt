@@ -1,16 +1,18 @@
 Source used: google_news
-Kept: 41   Blocked: 12
+Kept: 40   Blocked: 14
 
 Kept, by section:
-    41  (unknown)
+    40  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    13  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
   [sports headline] Valkyries prove big dreams can come true by reaching WNBA Finals in Year 2
+  [sports headline] Doja Cat’s San Francisco concert moved after Valkyries reach WNBA Finals
   [sports headline] Who are the Warriors’ rotation risers and fallers after initial preseason games?
   [national headline] Letters: Democrats should stop and listen to what Trump really said about L.A. and San Diego
   [sports headline] De La Salle basketball star, son of a Warriors champion, commits to USF
