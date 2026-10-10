@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 42   Blocked: 10
+Kept: 41   Blocked: 11
 
 Kept, by section:
-    42  (unknown)
+    41  (unknown)
 
 Blocked, by reason:
-     9  sports headline
+    10  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -19,3 +19,4 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries fend off Aces’ comeback, head to Las Vegas up 2-0 after Veronica Burton’s clutch three
   [sports headline] After big-game beatdowns, 49ers’ thoughts on Seahawks are hard to believe
   [sports headline] 49ers top pick Mykel Williams eager to make up for disappointing rookie season
+  [sports headline] Justice for ‘Juice’: 49ers’ Kyle Juszczyk has widely mocked celebration fine rescinded
