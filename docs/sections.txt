@@ -8,8 +8,8 @@ Blocked, by reason:
      5  sports headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Warriors sign guard Brandin Podziemski to five-year, $110 million extension
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
+  [sports headline] Valkyries prove big dreams can come true by reaching WNBA Finals in Year 2
   [sports headline] Inside Joe Lacob’s vision for Warriors: Curry’s sacrifice, cap space and what’s next
   [sports headline] How to solve Seahawks’ defense? 49ers’ Kyle Shanahan has admitted he’s not one to ask
