@@ -1,16 +1,17 @@
 Source used: google_news
-Kept: 36   Blocked: 6
+Kept: 37   Blocked: 7
 
 Kept, by section:
-    36  (unknown)
+    37  (unknown)
 
 Blocked, by reason:
-     6  sports headline
+     7  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
   [sports headline] Valkyries prove big dreams can come true by reaching WNBA Finals in Year 2
+  [sports headline] Who are the Warriors’ rotation risers and fallers after initial preseason games?
   [sports headline] Inside Joe Lacob’s vision for Warriors: Curry’s sacrifice, cap space and what’s next
   [sports headline] How to solve Seahawks’ defense? 49ers’ Kyle Shanahan has admitted he’s not one to ask
