@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 41   Blocked: 7
+Kept: 41   Blocked: 6
 
 Kept, by section:
     41  (unknown)
 
 Blocked, by reason:
-     7  sports headline
+     6  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Warriors sign guard Brandin Podziemski to five-year, $110 million extension
@@ -14,4 +14,3 @@ Blocked headlines (check for false positives):
   [sports headline] Inside Joe Lacob’s vision for Warriors: Curry’s sacrifice, cap space and what’s next
   [sports headline] How to solve Seahawks’ defense? 49ers’ Kyle Shanahan has admitted he’s not one to ask
   [sports headline] Tiffany Hayes took a leap of faith for Valkyries. Now she has them one win from the Finals
-  [sports headline] How upstart Valkyries defied logic to push Aces dynasty to brink of elimination
