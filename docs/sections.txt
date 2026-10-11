@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 42   Blocked: 11
+Kept: 42   Blocked: 10
 
 Kept, by section:
     42  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+     9  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -19,4 +19,3 @@ Blocked headlines (check for false positives):
   [sports headline] How to solve Seahawks’ defense? 49ers’ Kyle Shanahan has admitted he’s not one to ask
   [sports headline] Tiffany Hayes took a leap of faith for Valkyries. Now she has them one win from the Finals
   [sports headline] How upstart Valkyries defied logic to push Aces dynasty to brink of elimination
-  [sports headline] After big-game beatdowns, 49ers’ thoughts on Seahawks are hard to believe
