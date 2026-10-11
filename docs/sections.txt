@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 37   Blocked: 5
+Kept: 37   Blocked: 6
 
 Kept, by section:
     37  (unknown)
 
 Blocked, by reason:
-     5  sports headline
+     6  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Warriors, with Stephen Curry playing limited role, see others step up in preseason victory over Kings
   [sports headline] Warriors sign guard Brandin Podziemski to five-year, $110 million extension
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
