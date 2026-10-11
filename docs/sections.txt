@@ -1,14 +1,14 @@
 Source used: google_news
-Kept: 36   Blocked: 8
+Kept: 37   Blocked: 8
 
 Kept, by section:
-    36  (unknown)
+    37  (unknown)
 
 Blocked, by reason:
      8  sports headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Warriors to sign guard Brandin Podziemski to five-year, $110 million extension
+  [sports headline] Warriors sign guard Brandin Podziemski to five-year, $110 million extension
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
   [sports headline] Doja Cat’s San Francisco concert moved after Valkyries reach WNBA Finals
