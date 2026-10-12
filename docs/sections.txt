@@ -1,14 +1,13 @@
 Source used: google_news
-Kept: 37   Blocked: 9
+Kept: 37   Blocked: 8
 
 Kept, by section:
     37  (unknown)
 
 Blocked, by reason:
-     9  sports headline
+     8  sports headline
 
 Blocked headlines (check for false positives):
-  [sports headline] NFL suspends 49ers linebacker Dre Greenlaw one game for headbutting Seahawks player
   [sports headline] Should Giants target Morejón? Gausman? Five free agent pitchers who could fit
   [sports headline] ‘That’s Mike Evans’: 49ers marvel at how their new star dominated Seahawks
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
