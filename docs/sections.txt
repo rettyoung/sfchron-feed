@@ -1,16 +1,17 @@
 Source used: google_news
-Kept: 36   Blocked: 9
+Kept: 39   Blocked: 10
 
 Kept, by section:
-    36  (unknown)
+    39  (unknown)
 
 Blocked, by reason:
-     9  sports headline
+    10  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Should Giants target Morejón? Gausman? Five free agent pitchers who could fit
   [sports headline] ‘That’s Mike Evans’: 49ers marvel at how their new star dominated Seahawks
   [sports headline] 49ers’ Renardo Green once drew Shanahan’s ire. Two interceptions in Seattle changed that
+  [sports headline] 49ers game grades: Defense racks up sacks, turnovers and a TD to beat Seahawks
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
