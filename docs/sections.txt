@@ -1,15 +1,16 @@
 Source used: google_news
-Kept: 31   Blocked: 5
+Kept: 30   Blocked: 6
 
 Kept, by section:
-    31  (unknown)
+    30  (unknown)
 
 Blocked, by reason:
-     5  sports headline
+     6  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
   [sports headline] Valkyries prove big dreams can come true by reaching WNBA Finals in Year 2
+  [sports headline] Doja Cat’s San Francisco concert moved after Valkyries reach WNBA Finals
   [sports headline] Who are the Warriors’ rotation risers and fallers after initial preseason games?
