@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 31   Blocked: 6
+Kept: 31   Blocked: 7
 
 Kept, by section:
     31  (unknown)
 
 Blocked, by reason:
-     6  sports headline
+     7  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers game grades: Defense racks up sacks, turnovers and a TD to beat Seahawks
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
