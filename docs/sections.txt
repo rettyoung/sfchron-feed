@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 33   Blocked: 7
+Kept: 33   Blocked: 8
 
 Kept, by section:
     33  (unknown)
 
 Blocked, by reason:
-     7  sports headline
+     8  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] ‘That’s Mike Evans’: 49ers marvel at how their new star dominated Seahawks
+  [sports headline] 49ers’ Dre Greenlaw ejected after headbutting Seahawks player in sideline skirmish
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
