@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 33   Blocked: 6
+Kept: 34   Blocked: 7
 
 Kept, by section:
-    33  (unknown)
+    34  (unknown)
 
 Blocked, by reason:
-     6  sports headline
+     7  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers outlast Seahawks in wild, turnover-filled road victory to improve to 5-0
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
