@@ -1,21 +1,19 @@
 Source used: google_news
-Kept: 41   Blocked: 12
+Kept: 43   Blocked: 10
 
 Kept, by section:
-    41  (unknown)
+    43  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+    10  sports headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Former 49ers executive faces bribery charges in San Mateo County
   [sports headline] Can Valkyries solve Dream’s Angel Reese? WNBA Finals matchup could hinge on it
   [sports headline] Kerr ‘leaning toward’ small-ball Warriors lineup to open season with Porzingis absent
   [sports headline] 49ers add Deebo Samuel to their stack of wide receivers shelved by injuries
   [sports headline] 3,500 seats for WNBA Finals game? Valkyries, Dream deserve better than this embarrassment
   [sports headline] NFL suspends 49ers linebacker Dre Greenlaw one game for headbutting Seahawks player
   [sports headline] Should Giants target Morejón? Gausman? Five free agent pitchers who could fit
-  [sports headline] 49ers outlast Seahawks in wild, turnover-filled road victory to improve to 5-0
   [sports headline] ‘That’s Mike Evans’: 49ers marvel at how their new star dominated Seahawks
   [sports headline] 49ers’ Renardo Green once drew Shanahan’s ire. Two interceptions in Seattle changed that
   [sports headline] How getting kicked out of an AAU practice shaped Brandin Podziemski into Warriors’ $110M man
