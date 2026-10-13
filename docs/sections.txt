@@ -1,8 +1,8 @@
 Source used: google_news
-Kept: 37   Blocked: 10
+Kept: 36   Blocked: 10
 
 Kept, by section:
-    37  (unknown)
+    36  (unknown)
 
 Blocked, by reason:
     10  sports headline
@@ -12,9 +12,9 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers add Deebo Samuel to their stack of wide receivers shelved by injuries
   [sports headline] 3,500 seats for WNBA Finals game? Valkyries, Dream deserve better than this embarrassment
   [sports headline] Should Giants target Morejón? Gausman? Five free agent pitchers who could fit
+  [sports headline] 49ers outlast Seahawks in wild, turnover-filled road victory to improve to 5-0
   [sports headline] ‘That’s Mike Evans’: 49ers marvel at how their new star dominated Seahawks
   [sports headline] 49ers’ Renardo Green once drew Shanahan’s ire. Two interceptions in Seattle changed that
-  [sports headline] 49ers’ Dre Greenlaw ejected after headbutting Seahawks player in sideline skirmish
   [sports headline] 49ers game grades: Defense racks up sacks, turnovers and a TD to beat Seahawks
   [sports headline] How getting kicked out of an AAU practice shaped Brandin Podziemski into Warriors’ $110M man
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
