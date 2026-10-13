@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 37   Blocked: 9
+Kept: 37   Blocked: 10
 
 Kept, by section:
     37  (unknown)
 
 Blocked, by reason:
-     9  sports headline
+    10  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Kerr ‘leaning toward’ small-ball Warriors lineup to open season with Porzingis absent
@@ -14,6 +14,7 @@ Blocked headlines (check for false positives):
   [sports headline] Should Giants target Morejón? Gausman? Five free agent pitchers who could fit
   [sports headline] ‘That’s Mike Evans’: 49ers marvel at how their new star dominated Seahawks
   [sports headline] 49ers’ Renardo Green once drew Shanahan’s ire. Two interceptions in Seattle changed that
+  [sports headline] 49ers’ Dre Greenlaw ejected after headbutting Seahawks player in sideline skirmish
   [sports headline] 49ers game grades: Defense racks up sacks, turnovers and a TD to beat Seahawks
   [sports headline] How getting kicked out of an AAU practice shaped Brandin Podziemski into Warriors’ $110M man
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
