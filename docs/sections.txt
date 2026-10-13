@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 38   Blocked: 11
+Kept: 38   Blocked: 10
 
 Kept, by section:
     38  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    10  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers add Deebo Samuel to their stack of wide receivers shelved by injuries
@@ -18,4 +18,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
   [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
   [sports headline] Valkyries prove big dreams can come true by reaching WNBA Finals in Year 2
-  [sports headline] Doja Cat’s San Francisco concert moved after Valkyries reach WNBA Finals
