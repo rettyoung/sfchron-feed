@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 38   Blocked: 11
+Kept: 38   Blocked: 10
 
 Kept, by section:
     38  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    10  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Kerr ‘leaning toward’ small-ball Warriors lineup to open season with Porzingis absent
   [sports headline] 49ers add Deebo Samuel to their stack of wide receivers shelved by injuries
   [sports headline] 3,500 seats for WNBA Finals game? Valkyries, Dream deserve better than this embarrassment
   [sports headline] Should Giants target Morejón? Gausman? Five free agent pitchers who could fit
@@ -17,5 +18,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers game grades: Defense racks up sacks, turnovers and a TD to beat Seahawks
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
   [sports headline] 49ers’ Brock Purdy has scores to settle with Seahawks’ defense
-  [sports headline] Valkyries deal out Aces, complete sweep in Las Vegas to advance to WNBA Finals
-  [sports headline] Valkyries prove big dreams can come true by reaching WNBA Finals in Year 2
