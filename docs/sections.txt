@@ -1,16 +1,17 @@
 Source used: google_news
-Kept: 48   Blocked: 15
+Kept: 49   Blocked: 16
 
 Kept, by section:
-    48  (unknown)
+    49  (unknown)
 
 Blocked, by reason:
-    15  sports headline
+    16  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Warriors beat Lakers, but show defensive weaknesses with Draymond Green resting
   [sports headline] NFL suspends 49ers linebacker Dre Greenlaw one game for headbutting Seahawks player
   [sports headline] Former 49ers executive faces bribery charges in San Mateo County
+  [sports headline] 49ers game review: How Gracen Halton and defense’s recent draft picks saved the day in Seattle
   [sports headline] Can Valkyries solve Dream’s Angel Reese? WNBA Finals matchup could hinge on it
   [sports headline] Kerr ‘leaning toward’ small-ball Warriors lineup to open season with Porzingis absent
   [sports headline] 49ers add Deebo Samuel to their stack of wide receivers shelved by injuries
