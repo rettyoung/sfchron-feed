@@ -1,15 +1,15 @@
 Source used: google_news
-Kept: 52   Blocked: 15
+Kept: 57   Blocked: 14
 
 Kept, by section:
-    52  (unknown)
+    57  (unknown)
 
 Blocked, by reason:
-    15  sports headline
+    14  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Would Giants trade for Mason Miller? Analyzing eight possible targets this offseason
-  [sports headline] Warriors beat Lakers, but show defensive weaknesses with Draymond Green resting
+  [sports headline] Warriors beat Lakers but show defensive weaknesses with Draymond Green resting
   [sports headline] NFL suspends 49ers linebacker Dre Greenlaw one game for headbutting Seahawks player
   [sports headline] Former 49ers executive faces bribery charges in San Mateo County
   [sports headline] 49ers game review: How Gracen Halton and defense’s recent draft picks saved the day in Seattle
@@ -21,5 +21,4 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers outlast Seahawks in wild, turnover-filled road victory to improve to 5-0
   [sports headline] ‘That’s Mike Evans’: 49ers marvel at how their new star dominated Seahawks
   [sports headline] 49ers’ Renardo Green once drew Shanahan’s ire. Two interceptions in Seattle changed that
-  [sports headline] 49ers’ Dre Greenlaw ejected after headbutting Seahawks player in sideline skirmish
   [sports headline] 49ers game grades: Defense racks up sacks, turnovers and a TD to beat Seahawks
