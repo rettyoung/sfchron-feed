@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 52   Blocked: 15
+Kept: 54   Blocked: 16
 
 Kept, by section:
-    52  (unknown)
+    54  (unknown)
 
 Blocked, by reason:
-    15  sports headline
+    16  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Would Giants trade for Mason Miller? Analyzing eight possible targets this offseason
   [sports headline] Warriors beat Lakers, but show defensive weaknesses with Draymond Green resting
   [sports headline] NFL suspends 49ers linebacker Dre Greenlaw one game for headbutting Seahawks player
   [sports headline] Former 49ers executive faces bribery charges in San Mateo County
