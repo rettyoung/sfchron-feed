@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 54   Blocked: 16
+Kept: 52   Blocked: 15
 
 Kept, by section:
-    54  (unknown)
+    52  (unknown)
 
 Blocked, by reason:
-    16  sports headline
+    15  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Would Giants trade for Mason Miller? Analyzing eight possible targets this offseason
@@ -23,4 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers’ Renardo Green once drew Shanahan’s ire. Two interceptions in Seattle changed that
   [sports headline] 49ers’ Dre Greenlaw ejected after headbutting Seahawks player in sideline skirmish
   [sports headline] 49ers game grades: Defense racks up sacks, turnovers and a TD to beat Seahawks
-  [sports headline] How getting kicked out of an AAU practice shaped Brandin Podziemski into Warriors’ $110M man
