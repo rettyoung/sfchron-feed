@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 43   Blocked: 14
+Kept: 44   Blocked: 15
 
 Kept, by section:
-    43  (unknown)
+    44  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    15  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Former 49ers executive faces bribery charges in San Mateo County
@@ -20,5 +20,6 @@ Blocked headlines (check for false positives):
   [sports headline] ‘That’s Mike Evans’: 49ers marvel at how their new star dominated Seahawks
   [sports headline] 49ers’ Renardo Green once drew Shanahan’s ire. Two interceptions in Seattle changed that
   [sports headline] 49ers’ Dre Greenlaw ejected after headbutting Seahawks player in sideline skirmish
+  [sports headline] 49ers game grades: Defense racks up sacks, turnovers and a TD to beat Seahawks
   [sports headline] How getting kicked out of an AAU practice shaped Brandin Podziemski into Warriors’ $110M man
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
