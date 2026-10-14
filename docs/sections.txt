@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 44   Blocked: 12
+Kept: 43   Blocked: 14
 
 Kept, by section:
-    44  (unknown)
+    43  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+    14  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Former 49ers executive faces bribery charges in San Mateo County
   [sports headline] 49ers game review: How Gracen Halton and defense’s recent draft picks saved the day in Seattle
   [sports headline] Can Valkyries solve Dream’s Angel Reese? WNBA Finals matchup could hinge on it
   [sports headline] Kerr ‘leaning toward’ small-ball Warriors lineup to open season with Porzingis absent
@@ -18,5 +19,6 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers outlast Seahawks in wild, turnover-filled road victory to improve to 5-0
   [sports headline] ‘That’s Mike Evans’: 49ers marvel at how their new star dominated Seahawks
   [sports headline] 49ers’ Renardo Green once drew Shanahan’s ire. Two interceptions in Seattle changed that
+  [sports headline] 49ers’ Dre Greenlaw ejected after headbutting Seahawks player in sideline skirmish
   [sports headline] How getting kicked out of an AAU practice shaped Brandin Podziemski into Warriors’ $110M man
   [sports headline] Valkyries’ Gabby Williams started her hoops journey on Bay Area club teams. Now she’s a WNBA star
