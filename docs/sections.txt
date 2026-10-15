@@ -1,16 +1,15 @@
 Source used: google_news
-Kept: 58   Blocked: 17
+Kept: 59   Blocked: 15
 
 Kept, by section:
-    58  (unknown)
+    59  (unknown)
 
 Blocked, by reason:
-    17  sports headline
+    15  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Kristaps Porzingis breaks silence after Warriors announce he’s out indefinitely
   [sports headline] 2 men charged in San Francisco nightclub shooting of 49ers’ Keion White
-  [sports headline] How Sue Bird, Cheryl Miller see Valkyries-Dream WNBA Finals playing out
   [sports headline] Giants offseason trade targets? Weighing options from Joe Ryan to long-shot Mason Miller
   [sports headline] Warriors beat Lakers but show defensive weaknesses with Draymond Green resting
   [sports headline] NFL suspends 49ers linebacker Dre Greenlaw one game for headbutting Seahawks player
@@ -24,4 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers outlast Seahawks in wild, turnover-filled road victory to improve to 5-0
   [sports headline] ‘That’s Mike Evans’: 49ers marvel at how their new star dominated Seahawks
   [sports headline] 49ers’ Renardo Green once drew Shanahan’s ire. Two interceptions in Seattle changed that
-  [sports headline] 49ers game grades: Defense racks up sacks, turnovers and a TD to beat Seahawks
