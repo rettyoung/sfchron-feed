@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 59   Blocked: 13
+Kept: 54   Blocked: 12
 
 Kept, by section:
-    59  (unknown)
+    54  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    12  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Five reasons why 49ers are 5-0 and atop the NFL despite epic rash of injuries
@@ -20,4 +20,3 @@ Blocked headlines (check for false positives):
   [sports headline] Can Valkyries solve Dream’s Angel Reese? WNBA Finals matchup could hinge on it
   [sports headline] Kerr ‘leaning toward’ small-ball Warriors lineup to open season with Porzingis absent
   [sports headline] 3,500 seats for WNBA Finals game? Valkyries, Dream deserve better than this embarrassment
-  [sports headline] Should Giants target Morejón? Gausman? Five free agent pitchers who could fit
