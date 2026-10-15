@@ -1,17 +1,16 @@
 Source used: google_news
-Kept: 58   Blocked: 18
+Kept: 58   Blocked: 17
 
 Kept, by section:
     58  (unknown)
 
 Blocked, by reason:
-    18  sports headline
+    17  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Kristaps Porzingis breaks silence after Warriors announce he’s out indefinitely
   [sports headline] 2 men charged in San Francisco nightclub shooting of 49ers’ Keion White
   [sports headline] How Sue Bird, Cheryl Miller see Valkyries-Dream WNBA Finals playing out
-  [sports headline] Warriors’ Yaxel Lendeborg faces trial by fire on defense: ‘Can’t do what I did in college’
   [sports headline] Giants offseason trade targets? Weighing options from Joe Ryan to long-shot Mason Miller
   [sports headline] Warriors beat Lakers but show defensive weaknesses with Draymond Green resting
   [sports headline] NFL suspends 49ers linebacker Dre Greenlaw one game for headbutting Seahawks player
