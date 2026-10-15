@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 58   Blocked: 13
+Kept: 56   Blocked: 13
 
 Kept, by section:
-    58  (unknown)
+    56  (unknown)
 
 Blocked, by reason:
     13  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] How Warriors’ Steph Curry has changed his preparation to play in ‘at least’ 65 games
   [sports headline] Former 49ers executive faces bribery charges in San Mateo County
   [sports headline] These Valkyries were overlooked and unwanted. Now they’re in the WNBA Finals
   [sports headline] Five reasons why 49ers are 5-0 and atop the NFL despite epic rash of injuries
@@ -20,4 +21,3 @@ Blocked headlines (check for false positives):
   [sports headline] WNBA gets Finals games in Atlanta moved to arena that seats 17,000 for Valkyries-Dream
   [sports headline] 49ers game review: How Gracen Halton and defense’s recent draft picks saved the day in Seattle
   [sports headline] Can Valkyries solve Dream’s Angel Reese? WNBA Finals matchup could hinge on it
-  [sports headline] Kerr ‘leaning toward’ small-ball Warriors lineup to open season with Porzingis absent
