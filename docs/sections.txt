@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 61   Blocked: 14
+Kept: 60   Blocked: 13
 
 Kept, by section:
-    61  (unknown)
+    60  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    13  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Five reasons why 49ers are 5-0 and atop the NFL despite epic rash of injuries
@@ -21,4 +21,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers add Deebo Samuel to their stack of wide receivers shelved by injuries
   [sports headline] 3,500 seats for WNBA Finals game? Valkyries, Dream deserve better than this embarrassment
   [sports headline] Should Giants target Morejón? Gausman? Five free agent pitchers who could fit
-  [sports headline] 49ers outlast Seahawks in wild, turnover-filled road victory to improve to 5-0
