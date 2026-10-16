@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 63   Blocked: 17
+Kept: 65   Blocked: 16
 
 Kept, by section:
-    63  (unknown)
+    65  (unknown)
 
 Blocked, by reason:
-    17  sports headline
+    16  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
@@ -24,4 +24,3 @@ Blocked headlines (check for false positives):
   [sports headline] Warriors beat Lakers but show defensive weaknesses with Draymond Green resting
   [sports headline] NFL suspends 49ers linebacker Dre Greenlaw one game for headbutting Seahawks player
   [sports headline] WNBA gets Finals games in Atlanta moved to arena that seats 17,000 for Valkyries-Dream
-  [sports headline] 49ers game review: How Gracen Halton and defense’s recent draft picks saved the day in Seattle
