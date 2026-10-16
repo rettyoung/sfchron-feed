@@ -1,17 +1,16 @@
 Source used: google_news
-Kept: 61   Blocked: 16
+Kept: 60   Blocked: 14
 
 Kept, by section:
-    61  (unknown)
+    60  (unknown)
 
 Blocked, by reason:
-    16  sports headline
+    14  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
   [sports headline] Valkyries tickets command eye-popping prices, four times higher than 2025 WNBA Finals
   [sports headline] 49ers’ Christian McCaffrey is working less. His thoughts? It’s complicated
-  [sports headline] Valkyries’ Gabby Williams, Veronica Burton and Kiah Stokes named to WNBA All-Defense team
   [sports headline] Valkyries GM’s strategy once shocked WNBA world. Now it’s in awe of her Finals squad
   [sports headline] How Warriors’ Steph Curry has changed his preparation to play in ‘at least’ 65 games
   [sports headline] Former 49ers executive faces bribery charges in San Mateo County
@@ -23,4 +22,3 @@ Blocked headlines (check for false positives):
   [sports headline] Giants offseason trade targets? Weighing options from Joe Ryan to long-shot Mason Miller
   [sports headline] Warriors beat Lakers but show defensive weaknesses with Draymond Green resting
   [sports headline] NFL suspends 49ers linebacker Dre Greenlaw one game for headbutting Seahawks player
-  [sports headline] WNBA gets Finals games in Atlanta moved to arena that seats 17,000 for Valkyries-Dream
