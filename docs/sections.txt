@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 63   Blocked: 16
+Kept: 63   Blocked: 17
 
 Kept, by section:
     63  (unknown)
 
 Blocked, by reason:
-    16  sports headline
+    17  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
   [sports headline] Valkyries tickets command eye-popping prices, four times higher than 2025 WNBA Finals
   [sports headline] 49ers’ Christian McCaffrey is working less. His thoughts? It’s complicated
   [sports headline] Valkyries’ Gabby Williams, Veronica Burton and Kiah Stokes named to WNBA All-Defense team
