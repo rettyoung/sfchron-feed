@@ -1,14 +1,17 @@
 Source used: google_news
-Kept: 62   Blocked: 14
+Kept: 61   Blocked: 17
 
 Kept, by section:
-    62  (unknown)
+    61  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    17  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] The four factors for Valkyries vs. Dream that will decide who wins WNBA Finals
+  [sports headline] Valkyries tickets command eye-popping prices, four times higher than 2025 WNBA Finals
   [sports headline] 49ers’ Christian McCaffrey is working less. His thoughts? It’s complicated
+  [sports headline] Valkyries’ Gabby Williams, Veronica Burton and Kiah Stokes named to WNBA All-Defense team
   [sports headline] Valkyries GM’s strategy once shocked WNBA world. Now it’s in awe of her Finals squad
   [sports headline] Former 49ers executive faces bribery charges in San Mateo County
   [sports headline] These Valkyries were overlooked and unwanted. Now they’re in the WNBA Finals
