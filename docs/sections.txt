@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 60   Blocked: 12
+Kept: 60   Blocked: 13
 
 Kept, by section:
     60  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+    13  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Valkyries tickets command eye-popping prices, four times higher than 2025 WNBA Finals
   [sports headline] 49ers’ Christian McCaffrey is working less. His thoughts? It’s complicated
   [sports headline] Former 49ers executive faces bribery charges in San Mateo County
   [sports headline] Five reasons why 49ers are 5-0 and atop the NFL despite epic rash of injuries
