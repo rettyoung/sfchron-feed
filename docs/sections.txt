@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 60   Blocked: 11
+Kept: 59   Blocked: 12
 
 Kept, by section:
-    60  (unknown)
+    59  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    12  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers WR Christian Kirk ‘feeling like myself again,’ could return soon
   [sports headline] How Warriors’ Steph Curry has changed his preparation to play in ‘at least’ 65 games
   [sports headline] Former 49ers executive faces bribery charges in San Mateo County
   [sports headline] Five reasons why 49ers are 5-0 and atop the NFL despite epic rash of injuries
