@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 57   Blocked: 14
+Kept: 58   Blocked: 13
 
 Kept, by section:
-    57  (unknown)
+    58  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    13  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
@@ -21,4 +21,3 @@ Blocked headlines (check for false positives):
   [sports headline] Warriors’ Yaxel Lendeborg faces trial by fire on defense: ‘Can’t do what I did in college’
   [sports headline] Giants offseason trade targets? Weighing options from Joe Ryan to long-shot Mason Miller
   [sports headline] Warriors beat Lakers but show defensive weaknesses with Draymond Green resting
-  [sports headline] NFL suspends 49ers linebacker Dre Greenlaw one game for headbutting Seahawks player
