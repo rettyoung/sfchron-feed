@@ -1,16 +1,15 @@
 Source used: google_news
-Kept: 51   Blocked: 11
+Kept: 52   Blocked: 10
 
 Kept, by section:
-    51  (unknown)
+    52  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    10  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] ‘All in, all the time’: How the Valkyries redefined what’s elite in the WNBA
   [sports headline] Valkyries bring Bay Area music stars to WNBA Finals
-  [sports headline] Valkyries-Dream matchup draws a crowd at WNBA Finals media day
   [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
   [sports headline] Valkyries tickets command eye-popping prices, four times higher than 2025 WNBA Finals
   [sports headline] 49ers’ Christian McCaffrey is working less. His thoughts? It’s complicated
