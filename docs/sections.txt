@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 54   Blocked: 12
+Kept: 54   Blocked: 11
 
 Kept, by section:
     54  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+    11  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] ‘All in, all the time’: How the Valkyries redefined what’s elite in the WNBA
@@ -14,7 +14,6 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
   [sports headline] Valkyries tickets command eye-popping prices, four times higher than 2025 WNBA Finals
   [sports headline] 49ers’ Christian McCaffrey is working less. His thoughts? It’s complicated
-  [sports headline] Tickets to see Steph Curry? Steve Kerr warns Warriors fans to ‘be mindful’ of back-to-backs
   [sports headline] Valkyries GM’s strategy once shocked WNBA world. Now it’s in awe of her Finals squad
   [sports headline] How Warriors’ Steph Curry has changed his preparation to play in ‘at least’ 65 games
   [sports headline] These Valkyries were overlooked and unwanted. Now they’re in the WNBA Finals
