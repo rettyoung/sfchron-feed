@@ -1,19 +1,19 @@
 Source used: google_news
-Kept: 59   Blocked: 13
+Kept: 61   Blocked: 13
 
 Kept, by section:
-    59  (unknown)
+    61  (unknown)
 
 Blocked, by reason:
     13  sports headline
 
 Blocked headlines (check for false positives):
-  [sports headline] How and when to watch WNBA Finals. Share your thoughts on Game 1 of Valkyries-Dream
   [sports headline] ‘All in, all the time’: How the Valkyries redefined what’s elite in the WNBA
   [sports headline] Valkyries bring Bay Area music stars to WNBA Finals
   [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
   [sports headline] Valkyries tickets command eye-popping prices, four times higher than 2025 WNBA Finals
   [sports headline] 49ers’ Christian McCaffrey is working less. His thoughts? It’s complicated
+  [sports headline] Tickets to see Steph Curry? Steve Kerr warns Warriors fans to ‘be mindful’ of back-to-backs
   [sports headline] Valkyries GM’s strategy once shocked WNBA world. Now it’s in awe of her Finals squad
   [sports headline] How Warriors’ Steph Curry has changed his preparation to play in ‘at least’ 65 games
   [sports headline] These Valkyries were overlooked and unwanted. Now they’re in the WNBA Finals
