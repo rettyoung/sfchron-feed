@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 50   Blocked: 10
+Kept: 49   Blocked: 9
 
 Kept, by section:
-    50  (unknown)
+    49  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+     9  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] ‘All in, all the time’: How the Valkyries redefined what’s elite in the WNBA
@@ -17,4 +17,3 @@ Blocked headlines (check for false positives):
   [sports headline] How Warriors’ Steph Curry has changed his preparation to play in ‘at least’ 65 games
   [sports headline] Former 49ers executive faces bribery charges in San Mateo County
   [sports headline] These Valkyries were overlooked and unwanted. Now they’re in the WNBA Finals
-  [sports headline] Five reasons why 49ers are 5-0 and atop the NFL despite epic rash of injuries
