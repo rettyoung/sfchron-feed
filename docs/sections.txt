@@ -1,17 +1,19 @@
 Source used: google_news
-Kept: 49   Blocked: 14
+Kept: 48   Blocked: 16
 
 Kept, by section:
-    49  (unknown)
+    48  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    16  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] From Joe Montana to Joe Williams, Peter King had a front-row seat to 49ers history
   [sports headline] Valkyries prove tough enough, top Dream in Game 1 of WNBA Finals
   [sports headline] Valkyries retain, relish their Ballhalla advantage in bruising win over Dream
   [sports headline] How Valkyries’ Gabby Williams uses math to shoulder a heavy offensive burden
   [sports headline] 49ers WR Mike Evans misses practice again; Nick Bosa ruled out vs. Commanders
+  [sports headline] Fans say ‘astronomical’ ticket prices are well worth it for Valkyries-Dream WNBA Finals
   [sports headline] How Warriors’ Draymond Green is adjusting to Steve Kerr’s new vision for him: ‘If he says something, I trust it’
   [sports headline] ‘All in, all the time’: How the Valkyries redefined what’s elite in the WNBA
   [sports headline] ‘Old’ Georges Niang shines early in Warriors’ preseason-ending win over Portland
