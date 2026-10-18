@@ -1,14 +1,13 @@
 Source used: google_news
-Kept: 48   Blocked: 16
+Kept: 48   Blocked: 14
 
 Kept, by section:
     48  (unknown)
 
 Blocked, by reason:
-    16  sports headline
+    14  sports headline
 
 Blocked headlines (check for false positives):
-  [sports headline] From Joe Montana to Joe Williams, Peter King had a front-row seat to 49ers history
   [sports headline] Valkyries prove tough enough, top Dream in Game 1 of WNBA Finals
   [sports headline] Valkyries retain, relish their Ballhalla advantage in bruising win over Dream
   [sports headline] How Valkyries’ Gabby Williams uses math to shoulder a heavy offensive burden
@@ -23,4 +22,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers’ Christian McCaffrey is working less. His thoughts? It’s complicated
   [sports headline] Valkyries GM’s strategy once shocked WNBA world. Now it’s in awe of her Finals squad
   [sports headline] How Warriors’ Steph Curry has changed his preparation to play in ‘at least’ 65 games
-  [sports headline] Former 49ers executive faces bribery charges in San Mateo County
