@@ -1,11 +1,12 @@
 Source used: google_news
-Kept: 48   Blocked: 14
+Kept: 46   Blocked: 15
 
 Kept, by section:
-    48  (unknown)
+    46  (unknown)
 
 Blocked, by reason:
     14  sports headline
+     1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Valkyries prove tough enough, top Dream in Game 1 of WNBA Finals
@@ -18,6 +19,7 @@ Blocked headlines (check for false positives):
   [sports headline] ‘Old’ Georges Niang shines early in Warriors’ preseason-ending win over Portland
   [sports headline] Valkyries bring Bay Area music stars to WNBA Finals
   [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
+  [national headline] A timeline of Katie Zacharia’s 5 disastrous days as Trump’s press secretary
   [sports headline] Valkyries tickets command eye-popping prices, four times higher than 2025 WNBA Finals
   [sports headline] 49ers’ Christian McCaffrey is working less. His thoughts? It’s complicated
   [sports headline] Valkyries GM’s strategy once shocked WNBA world. Now it’s in awe of her Finals squad
