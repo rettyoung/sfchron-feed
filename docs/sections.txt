@@ -1,8 +1,8 @@
 Source used: google_news
-Kept: 47   Blocked: 14
+Kept: 39   Blocked: 14
 
 Kept, by section:
-    47  (unknown)
+    39  (unknown)
 
 Blocked, by reason:
     13  sports headline
@@ -11,6 +11,7 @@ Blocked, by reason:
 Blocked headlines (check for false positives):
   [sports headline] As 49ers face lowly Commanders, Kyle Shanahan reminded of almost getting fired
   [sports headline] From Joe Montana to Joe Williams, Peter King had a front-row seat to 49ers history
+  [sports headline] Photos from the Valkyries’ tense Finals-opening win
   [sports headline] Valkyries prove tough enough, top Dream in Game 1 of WNBA Finals
   [sports headline] Valkyries retain, relish their Ballhalla advantage in bruising win over Dream
   [sports headline] How Valkyries’ Gabby Williams uses math to shoulder a heavy offensive burden
@@ -19,7 +20,6 @@ Blocked headlines (check for false positives):
   [sports headline] Steve Kerr, Warriors attend WNBA Finals Game 1 to support Golden State Valkyries
   [sports headline] How Warriors’ Draymond Green is adjusting to Steve Kerr’s new vision for him: ‘If he says something, I trust it’
   [sports headline] ‘All in, all the time’: How the Valkyries redefined what’s elite in the WNBA
-  [sports headline] ‘Old’ Georges Niang shines early in Warriors’ preseason-ending win over Portland
   [sports headline] Valkyries bring Bay Area music stars to WNBA Finals
   [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
   [national headline] A timeline of Katie Zacharia’s 5 disastrous days as Trump’s press secretary
