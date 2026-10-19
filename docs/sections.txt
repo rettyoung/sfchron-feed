@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 41   Blocked: 16
+Kept: 40   Blocked: 15
 
 Kept, by section:
-    41  (unknown)
+    40  (unknown)
 
 Blocked, by reason:
-    16  sports headline
+    15  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers-Commanders: Brock Purdy primed for a huge day? How many losses for S.F. this season?
@@ -23,4 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] How Warriors’ Draymond Green is adjusting to Steve Kerr’s new vision for him: ‘If he says something, I trust it’
   [sports headline] ‘All in, all the time’: How the Valkyries redefined what’s elite in the WNBA
   [sports headline] Valkyries bring Bay Area music stars to WNBA Finals
-  [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
