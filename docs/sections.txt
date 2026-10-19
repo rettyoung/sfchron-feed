@@ -1,18 +1,18 @@
 Source used: google_news
-Kept: 40   Blocked: 15
+Kept: 44   Blocked: 15
 
 Kept, by section:
-    40  (unknown)
+    44  (unknown)
 
 Blocked, by reason:
     14  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers-Commanders: Brock Purdy primed for a huge day? How many losses for S.F. this season?
   [sports headline] Serial spitter? 49ers’ Kyle Juszczyk says C.J. Gardner-Johnson spit on him in 2025
   [sports headline] As 49ers face lowly Commanders, Kyle Shanahan reminded of almost getting fired
   [sports headline] From Joe Montana to Joe Williams, Peter King had a front-row seat to 49ers history
-  [sports headline] Photos from the Valkyries’ tense Finals-opening win
   [sports headline] Valkyries prove tough enough, top Dream in Game 1 of WNBA Finals
   [sports headline] Valkyries retain, relish their Ballhalla advantage in bruising win over Dream
   [sports headline] How Valkyries’ Gabby Williams uses math to shoulder a heavy offensive burden
