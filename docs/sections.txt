@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 39   Blocked: 14
+Kept: 40   Blocked: 15
 
 Kept, by section:
-    39  (unknown)
+    40  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    14  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Serial spitter? 49ers’ Kyle Juszczyk says C.J. Gardner-Johnson spit on him in 2025
   [sports headline] As 49ers face lowly Commanders, Kyle Shanahan reminded of almost getting fired
   [sports headline] From Joe Montana to Joe Williams, Peter King had a front-row seat to 49ers history
   [sports headline] Photos from the Valkyries’ tense Finals-opening win
