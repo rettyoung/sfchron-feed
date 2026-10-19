@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 44   Blocked: 15
+Kept: 45   Blocked: 14
 
 Kept, by section:
-    44  (unknown)
+    45  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    13  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -23,4 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries bring Bay Area music stars to WNBA Finals
   [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
   [national headline] A timeline of Katie Zacharia’s 5 disastrous days as Trump’s press secretary
-  [sports headline] Valkyries tickets command eye-popping prices, four times higher than 2025 WNBA Finals
