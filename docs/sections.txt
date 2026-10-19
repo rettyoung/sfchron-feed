@@ -1,12 +1,11 @@
 Source used: google_news
-Kept: 43   Blocked: 15
+Kept: 41   Blocked: 14
 
 Kept, by section:
-    43  (unknown)
+    41  (unknown)
 
 Blocked, by reason:
     14  sports headline
-     1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Warriors’ Steph Curry sprains right ankle during scrimmage, coach says he’s ‘fine’
@@ -23,4 +22,3 @@ Blocked headlines (check for false positives):
   [sports headline] ‘All in, all the time’: How the Valkyries redefined what’s elite in the WNBA
   [sports headline] Valkyries bring Bay Area music stars to WNBA Finals
   [sports headline] 49ers’ John Lynch says he’s shopping before NFL trade deadline; Kittle asks about Khalil Mack
-  [national headline] A timeline of Katie Zacharia’s 5 disastrous days as Trump’s press secretary
