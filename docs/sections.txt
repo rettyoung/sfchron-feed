@@ -1,16 +1,15 @@
 Source used: google_news
-Kept: 42   Blocked: 19
+Kept: 37   Blocked: 18
 
 Kept, by section:
-    42  (unknown)
+    37  (unknown)
 
 Blocked, by reason:
-    18  sports headline
+    17  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers’ Mike Evans exits Commanders game with Achilles issue, but avoids major injury
-  [sports headline] 49ers nearly let 6-0 slip away. How did they hold on vs. the Commanders in MNF win?
   [sports headline] Valkyries’ run of Ballhalla brilliance ends as Dream dominate Game 2 of WNBA Finals
   [sports headline] Dream give Valkyries a reality check, and the WNBA Finals just got interesting: ‘It’s gonna get sticky’
   [national headline] U.S. Supreme Court lets name change remain for S.F.’s 148-year-old law school
