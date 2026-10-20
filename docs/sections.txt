@@ -1,16 +1,15 @@
 Source used: google_news
-Kept: 39   Blocked: 17
+Kept: 40   Blocked: 14
 
 Kept, by section:
-    39  (unknown)
+    40  (unknown)
 
 Blocked, by reason:
-    16  sports headline
+    13  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [national headline] U.S. Supreme Court lets name change remain for S.F.’s 148-year-old law school
-  [sports headline] Warriors’ Steph Curry will play vs. Lakers Wednesday, but Golden State managing other injuries
   [sports headline] 49ers-Commanders: Brock Purdy primed for a huge day? How many losses for S.F. this season?
   [sports headline] Serial spitter? 49ers’ Kyle Juszczyk says C.J. Gardner-Johnson spit on him in 2025
   [sports headline] As 49ers face lowly Commanders, Kyle Shanahan reminded of almost getting fired
@@ -24,5 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] Steve Kerr, Warriors attend WNBA Finals Game 1 to support Golden State Valkyries
   [sports headline] How Warriors’ Draymond Green is adjusting to Steve Kerr’s new vision for him: ‘If he says something, I trust it’
   [sports headline] ‘All in, all the time’: How the Valkyries redefined what’s elite in the WNBA
-  [sports headline] ‘Old’ Georges Niang shines early in Warriors’ preseason-ending win over Portland
-  [sports headline] Valkyries bring Bay Area music stars to WNBA Finals
