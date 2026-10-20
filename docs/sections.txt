@@ -1,15 +1,14 @@
 Source used: google_news
-Kept: 40   Blocked: 16
+Kept: 40   Blocked: 15
 
 Kept, by section:
     40  (unknown)
 
 Blocked, by reason:
-    16  sports headline
+    15  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers-Commanders: Brock Purdy primed for a huge day? How many losses for S.F. this season?
-  [sports headline] Warriors’ Steph Curry sprains right ankle during scrimmage, coach says he’s ‘fine’
   [sports headline] Serial spitter? 49ers’ Kyle Juszczyk says C.J. Gardner-Johnson spit on him in 2025
   [sports headline] As 49ers face lowly Commanders, Kyle Shanahan reminded of almost getting fired
   [sports headline] Mike Evans took tall task of learning 49ers offense and made it look easy
