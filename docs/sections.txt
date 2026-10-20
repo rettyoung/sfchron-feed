@@ -1,17 +1,18 @@
 Source used: google_news
-Kept: 42   Blocked: 16
+Kept: 43   Blocked: 17
 
 Kept, by section:
-    42  (unknown)
+    43  (unknown)
 
 Blocked, by reason:
-    15  sports headline
+    16  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Dream give Valkyries a reality check, and the WNBA Finals just got interesting: ‘It’s gonna get sticky’
   [sports headline] 49ers’ Mike Evans exits Commanders game with Achilles issue, but avoids major injury
   [national headline] U.S. Supreme Court lets name change remain for S.F.’s 148-year-old law school
+  [sports headline] Warriors’ Steph Curry will play vs. Lakers Wednesday, but Golden State managing other injuries
   [sports headline] 49ers-Commanders: Brock Purdy primed for a huge day? How many losses for S.F. this season?
   [sports headline] Serial spitter? 49ers’ Kyle Juszczyk says C.J. Gardner-Johnson spit on him in 2025
   [sports headline] As 49ers face lowly Commanders, Kyle Shanahan reminded of almost getting fired
