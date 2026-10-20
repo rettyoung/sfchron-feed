@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 41   Blocked: 15
+Kept: 41   Blocked: 16
 
 Kept, by section:
     41  (unknown)
 
 Blocked, by reason:
-    15  sports headline
+    16  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers-Commanders: Brock Purdy primed for a huge day? How many losses for S.F. this season?
@@ -22,4 +22,5 @@ Blocked headlines (check for false positives):
   [sports headline] Steve Kerr, Warriors attend WNBA Finals Game 1 to support Golden State Valkyries
   [sports headline] How Warriors’ Draymond Green is adjusting to Steve Kerr’s new vision for him: ‘If he says something, I trust it’
   [sports headline] ‘All in, all the time’: How the Valkyries redefined what’s elite in the WNBA
+  [sports headline] ‘Old’ Georges Niang shines early in Warriors’ preseason-ending win over Portland
   [sports headline] Valkyries bring Bay Area music stars to WNBA Finals
