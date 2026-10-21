@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 41   Blocked: 11
+Kept: 43   Blocked: 12
 
 Kept, by section:
-    41  (unknown)
+    43  (unknown)
 
 Blocked, by reason:
     10  sports headline
-     1  national headline
+     2  national headline
 
 Blocked headlines (check for false positives):
+  [national headline] A ‘coup’ in Congress? Democrats are gaming out a Jan. 3 nightmare
   [sports headline] Steph Curry is staring down 39. The Warriors still need him to be great
   [sports headline] 49ers game review: Mike Evans effect makes WR a weapon even when not targeted
   [sports headline] Warriors’ Yaxel Lendeborg is surpassing expectations. Can he when it counts? ‘As ready as I’ve seen’
