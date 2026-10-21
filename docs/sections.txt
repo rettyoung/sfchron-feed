@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 40   Blocked: 9
+Kept: 42   Blocked: 10
 
 Kept, by section:
-    40  (unknown)
+    42  (unknown)
 
 Blocked, by reason:
-     8  sports headline
+     9  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Steph Curry is staring down 39. The Warriors still need him to be great
   [sports headline] 49ers game review: Mike Evans effect makes WR a weapon even when not targeted
   [sports headline] Steve Kerr’s Vegas doppelganger got mistaken for Warriors coach — and got free beer
   [sports headline] 49ers’ Mike Evans exits Commanders game with Achilles issue but avoids major injury
