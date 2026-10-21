@@ -1,16 +1,15 @@
 Source used: google_news
-Kept: 41   Blocked: 11
+Kept: 40   Blocked: 10
 
 Kept, by section:
-    41  (unknown)
+    40  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+     9  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Steve Kerr’s Vegas doppelganger got mistaken for Warriors coach — and got free beer
-  [sports headline] Warriors have gone from chasing titles to hoping for the best: ‘That’s how bad it is?’
   [sports headline] 49ers’ Mike Evans exits Commanders game with Achilles issue but avoids major injury
   [sports headline] 49ers’ offense goes cold after Mike Evans exits. What does that mean going forward?
   [national headline] U.S. Supreme Court lets name change remain for S.F.’s 148-year-old law school
