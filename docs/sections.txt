@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 46   Blocked: 12
+Kept: 45   Blocked: 13
 
 Kept, by section:
-    46  (unknown)
+    45  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+    11  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
@@ -13,6 +13,7 @@ Blocked headlines (check for false positives):
   [sports headline] Steph Curry is staring down 39. The Warriors still need him to be great
   [sports headline] 49ers game review: Mike Evans effect makes WR a weapon even when not targeted
   [sports headline] Warriors’ Yaxel Lendeborg is surpassing expectations. Can he when it counts? ‘As ready as I’ve seen’
+  [sports headline] Warriors’ Brandin Podziemski, who played all 82 games last season, to miss opener
   [sports headline] Steve Kerr’s Vegas doppelganger got mistaken for Warriors coach — and got free beer
   [sports headline] 49ers’ Mike Evans exits Commanders game with Achilles issue but avoids major injury
   [sports headline] 49ers’ offense goes cold after Mike Evans exits. What does that mean going forward?
