@@ -1,15 +1,16 @@
 Source used: google_news
-Kept: 47   Blocked: 14
+Kept: 47   Blocked: 15
 
 Kept, by section:
     47  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+    13  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Valkyries look lost as Dream run away to gain 2-1 WNBA Finals lead in Atlanta
+  [sports headline] Dream are becoming Valkyries’ worst nightmare. Game 3 was their wakeup call
   [sports headline] How long might 49ers’ Mike Evans be sidelined? Surgeon provides perspective on Achilles tendinitis
   [national headline] A ‘coup’ in Congress? Democrats are gaming out a Jan. 3 nightmare
   [sports headline] Steph Curry is staring down 39. The Warriors still need him to be great
