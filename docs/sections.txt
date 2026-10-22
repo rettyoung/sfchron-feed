@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 49   Blocked: 15
+Kept: 50   Blocked: 14
 
 Kept, by section:
-    49  (unknown)
+    50  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    12  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
@@ -23,4 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers nearly let 6-0 slip away. How did they hold on vs. the Commanders in MNF win?
   [national headline] U.S. Supreme Court lets name change remain for S.F.’s 148-year-old law school
   [sports headline] Warriors’ Steph Curry will play vs. Lakers Wednesday, but Golden State managing other injuries
-  [sports headline] 49ers-Commanders: Brock Purdy primed for a huge day? How many losses for S.F. this season?
