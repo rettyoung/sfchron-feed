@@ -1,8 +1,8 @@
 Source used: google_news
-Kept: 60   Blocked: 9
+Kept: 61   Blocked: 9
 
 Kept, by section:
-    60  (unknown)
+    61  (unknown)
 
 Blocked, by reason:
      8  sports headline
@@ -15,6 +15,6 @@ Blocked headlines (check for false positives):
   [sports headline] How long might 49ers’ Mike Evans be sidelined? Surgeon provides perspective on Achilles tendinitis
   [national headline] A ‘coup’ in Congress? Democrats are gaming out a Jan. 3 nightmare
   [sports headline] Steph Curry is staring down 39. The Warriors still need him to be great
+  [sports headline] 49ers game review: Mike Evans effect makes WR a weapon even when not targeted
   [sports headline] Warriors’ Brandin Podziemski, who played all 82 games last season, to miss opener
   [sports headline] Enes Kanter Freedom plans to attend WNBA Finals Game 3, citing Valkyries’ Gabby Williams
-  [sports headline] Steve Kerr’s Vegas doppelganger got mistaken for Warriors coach — and got free beer
