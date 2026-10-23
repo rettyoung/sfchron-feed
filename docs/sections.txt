@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 54   Blocked: 15
+Kept: 54   Blocked: 16
 
 Kept, by section:
     54  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    15  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -13,6 +13,7 @@ Blocked headlines (check for false positives):
   [sports headline] Mike Evans’ injury exposes 49ers’ dire paucity of options at wide receiver
   [sports headline] Valkyries fans find community at Rikki’s, but not a win in Game 3 of WNBA Finals
   [sports headline] Valkyries look lost as Dream run away to gain 2-1 WNBA Finals lead in Atlanta
+  [sports headline] Dream are becoming Valkyries’ worst nightmare. Game 3 was their wakeup call
   [sports headline] How long might 49ers’ Mike Evans be sidelined? Surgeon provides perspective on Achilles tendinitis
   [national headline] A ‘coup’ in Congress? Democrats are gaming out a Jan. 3 nightmare
   [sports headline] Steph Curry is staring down 39. The Warriors still need him to be great
