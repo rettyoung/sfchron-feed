@@ -1,15 +1,14 @@
 Source used: google_news
-Kept: 54   Blocked: 13
+Kept: 57   Blocked: 12
 
 Kept, by section:
-    54  (unknown)
+    57  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+    11  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Mike Evans’ injury exposes 49ers’ dire paucity of options at wide receiver
   [sports headline] Valkyries fans find community at Rikki’s, but not a win in Game 3 of WNBA Finals
   [sports headline] Valkyries look lost as Dream run away to gain 2-1 WNBA Finals lead in Atlanta
   [sports headline] Dream are becoming Valkyries’ worst nightmare. Game 3 was their wakeup call
