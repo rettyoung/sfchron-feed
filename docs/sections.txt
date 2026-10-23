@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 59   Blocked: 9
+Kept: 61   Blocked: 8
 
 Kept, by section:
-    59  (unknown)
+    61  (unknown)
 
 Blocked, by reason:
-     8  sports headline
+     7  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -17,4 +17,3 @@ Blocked headlines (check for false positives):
   [sports headline] Steph Curry is staring down 39. The Warriors still need him to be great
   [sports headline] 49ers game review: Mike Evans effect makes WR a weapon even when not targeted
   [sports headline] Warriors’ Brandin Podziemski, who played all 82 games last season, to miss opener
-  [sports headline] Enes Kanter Freedom plans to attend WNBA Finals Game 3, citing Valkyries’ Gabby Williams
