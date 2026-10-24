@@ -8,7 +8,7 @@ Blocked, by reason:
     12  sports headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Valkyries even Finals with Game 4 win in Atlanta, stymie Dream and Angel Reese
+  [sports headline] Gabby Williams ‘steps up,’ helps Valkyries return to form in series-tying victory in Atlanta
   [sports headline] 49ers-Falcons roundtable: Will banged-up Niners strike deals at NFL trade deadline?
   [sports headline] Warriors’ Yaxel Lendeborg defends verbal jousting with Luka Doncic: ‘He's not Michael Jordan’
   [sports headline] Warriors, positioned for victory, wilt down stretch in home-opening loss to Grizzlies
