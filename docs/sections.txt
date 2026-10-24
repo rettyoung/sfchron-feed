@@ -1,12 +1,11 @@
 Source used: google_news
-Kept: 50   Blocked: 9
+Kept: 50   Blocked: 8
 
 Kept, by section:
     50  (unknown)
 
 Blocked, by reason:
      8  sports headline
-     1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Warriors’ Yaxel Lendeborg defends verbal jousting with Luka Doncic: ‘He's not Michael Jordan’
@@ -17,4 +16,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries fans find community at Rikki’s, but not a win in Game 3 of WNBA Finals
   [sports headline] Valkyries look lost as Dream run away to gain 2-1 WNBA Finals lead in Atlanta
   [sports headline] How long might 49ers’ Mike Evans be sidelined? Surgeon provides perspective on Achilles tendinitis
-  [national headline] A ‘coup’ in Congress? Democrats are gaming out a Jan. 3 nightmare
