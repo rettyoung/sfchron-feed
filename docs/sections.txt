@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 56   Blocked: 7
+Kept: 53   Blocked: 6
 
 Kept, by section:
-    56  (unknown)
+    53  (unknown)
 
 Blocked, by reason:
-     6  sports headline
+     5  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -15,4 +15,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries look lost as Dream run away to gain 2-1 WNBA Finals lead in Atlanta
   [sports headline] How long might 49ers’ Mike Evans be sidelined? Surgeon provides perspective on Achilles tendinitis
   [national headline] A ‘coup’ in Congress? Democrats are gaming out a Jan. 3 nightmare
-  [sports headline] Steph Curry is staring down 39. The Warriors still need him to be great
