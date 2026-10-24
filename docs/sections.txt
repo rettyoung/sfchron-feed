@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 60   Blocked: 9
+Kept: 61   Blocked: 8
 
 Kept, by section:
-    60  (unknown)
+    61  (unknown)
 
 Blocked, by reason:
-     8  sports headline
+     7  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers face Falcons riding sack surge, Raheem Morris happily scheming vs. former team
   [sports headline] Valkyries fans find community at Rikki’s, but not a win in Game 3 of WNBA Finals
   [sports headline] Dream are becoming Valkyries’ worst nightmare. Game 3 was their wakeup call
   [sports headline] Valkyries look lost as Dream run away to gain 2-1 WNBA Finals lead in Atlanta
@@ -16,5 +17,3 @@ Blocked headlines (check for false positives):
   [national headline] A ‘coup’ in Congress? Democrats are gaming out a Jan. 3 nightmare
   [sports headline] Steph Curry is staring down 39. The Warriors still need him to be great
   [sports headline] 49ers game review: Mike Evans effect makes WR a weapon even when not targeted
-  [sports headline] Warriors’ Brandin Podziemski, who played all 82 games last season, to miss opener
-  [sports headline] Warriors’ Yaxel Lendeborg is surpassing expectations. Can he when it counts? ‘As ready as I’ve seen’
