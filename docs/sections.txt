@@ -1,17 +1,18 @@
 Source used: google_news
-Kept: 41   Blocked: 9
+Kept: 41   Blocked: 10
 
 Kept, by section:
     41  (unknown)
 
 Blocked, by reason:
-     9  sports headline
+    10  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers-Falcons roundtable: Will banged-up Niners strike deals at NFL trade deadline?
   [sports headline] Warriors’ Yaxel Lendeborg defends verbal jousting with Luka Doncic: ‘He's not Michael Jordan’
   [sports headline] Warriors, positioned for victory, wilt down stretch in home-opening loss to Grizzlies
   [sports headline] 49ers face Falcons riding sack surge, Raheem Morris happily scheming vs. former team
+  [sports headline] Brash baller Angel Reese trash-talking her way toward a WNBA championship
   [sports headline] NFL’s old-school safeties love 49ers’ old-soul enforcer Malik Mustapha: ‘I get excited’
   [sports headline] Valkyries’ Gabby Williams gives fiery postgame speech: ‘She’s holding people accountable’
   [sports headline] Valkyries fans find community at Rikki’s, but not a win in Game 3 of WNBA Finals
