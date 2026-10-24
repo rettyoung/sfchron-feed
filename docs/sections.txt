@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 53   Blocked: 6
+Kept: 52   Blocked: 7
 
 Kept, by section:
-    53  (unknown)
+    52  (unknown)
 
 Blocked, by reason:
-     5  sports headline
+     6  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Warriors, positioned for victory, wilt down stretch in home-opening loss to Grizzlies
   [sports headline] 49ers face Falcons riding sack surge, Raheem Morris happily scheming vs. former team
   [sports headline] Valkyries fans find community at Rikki’s, but not a win in Game 3 of WNBA Finals
   [sports headline] Dream are becoming Valkyries’ worst nightmare. Game 3 was their wakeup call
