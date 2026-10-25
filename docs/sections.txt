@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 35   Blocked: 11
+Kept: 34   Blocked: 12
 
 Kept, by section:
-    35  (unknown)
+    34  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    12  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Undermanned Warriors put up fight but can’t get past Devin Booker, Suns in Phoenix
@@ -18,4 +18,5 @@ Blocked headlines (check for false positives):
   [sports headline] Bring on the bratwurst! Brewers in the World Series conjures memories of Kuenn, Yount and Uecker
   [sports headline] Brash baller Angel Reese trash-talking her way toward a WNBA championship
   [sports headline] NFL’s old-school safeties love 49ers’ old-soul enforcer Malik Mustapha: ‘I get excited’
+  [sports headline] Steve Kerr returned to Warriors on a new mission. Now comes ‘the reckoning’
   [sports headline] Valkyries’ Gabby Williams gives fiery postgame speech: ‘She’s holding people accountable’
