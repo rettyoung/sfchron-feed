@@ -1,16 +1,16 @@
 Source used: google_news
-Kept: 40   Blocked: 12
+Kept: 40   Blocked: 11
 
 Kept, by section:
     40  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+    11  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Gabby Williams ‘steps up,’ helps Valkyries return to form in series-tying victory in Atlanta
   [sports headline] 49ers-Falcons roundtable: Will banged-up Niners strike deals at NFL trade deadline?
-  [sports headline] Warriors’ Yaxel Lendeborg defends verbal jousting with Luka Doncic: ‘He's not Michael Jordan’
+  [sports headline] Warriors’ Yaxel Lendeborg defends verbal jousting with Luka Doncic: ‘He’s not Michael Jordan’
   [sports headline] Warriors, positioned for victory, wilt down stretch in home-opening loss to Grizzlies
   [sports headline] 49ers face Falcons riding sack surge, Raheem Morris happily scheming vs. former team
   [sports headline] Bring on the bratwurst! Brewers in the World Series conjures memories of Kuenn, Yount and Uecker
@@ -19,4 +19,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries’ Gabby Williams gives fiery postgame speech: ‘She’s holding people accountable’
   [sports headline] Valkyries fans find community at Rikki’s, but not a win in Game 3 of WNBA Finals
   [sports headline] Valkyries look lost as Dream run away to gain 2-1 WNBA Finals lead in Atlanta
-  [sports headline] How long might 49ers’ Mike Evans be sidelined? Surgeon provides perspective on Achilles tendinitis
