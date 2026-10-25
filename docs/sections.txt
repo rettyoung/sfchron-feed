@@ -1,17 +1,16 @@
 Source used: google_news
-Kept: 34   Blocked: 10
+Kept: 34   Blocked: 9
 
 Kept, by section:
     34  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+     9  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Undermanned Warriors put up fight but can’t get past Devin Booker, Suns in Phoenix
   [sports headline] Gabby Williams ‘steps up,’ helps Valkyries return to form in series-tying victory in Atlanta
   [sports headline] Natalie Nakase’s Game 4 adjustments may go down in Valkyries franchise history
-  [sports headline] 49ers-Falcons roundtable: Will banged-up Niners strike deals at NFL trade deadline?
   [sports headline] Warriors’ Yaxel Lendeborg defends verbal jousting with Luka Doncic: ‘He’s not Michael Jordan’
   [sports headline] Warriors, positioned for victory, wilt down stretch in home-opening loss to Grizzlies
   [sports headline] Bring on the bratwurst! Brewers in the World Series conjures memories of Kuenn, Yount and Uecker
