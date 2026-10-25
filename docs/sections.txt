@@ -1,8 +1,8 @@
 Source used: google_news
-Kept: 34   Blocked: 12
+Kept: 35   Blocked: 12
 
 Kept, by section:
-    34  (unknown)
+    35  (unknown)
 
 Blocked, by reason:
     12  sports headline
