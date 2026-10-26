@@ -1,15 +1,14 @@
 Source used: google_news
-Kept: 27   Blocked: 11
+Kept: 26   Blocked: 10
 
 Kept, by section:
-    27  (unknown)
+    26  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    10  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers game grades: Plenty of blame to go around in surprising first loss
-  [sports headline] How did Yaxel Lendeborg do in first big test as an offensive centerpiece for Warriors?
   [sports headline] Undermanned Warriors put up fight but can’t get past Devin Booker, Suns in Phoenix
   [sports headline] Gabby Williams ‘steps up,’ helps Valkyries return to form in series-tying victory in Atlanta
   [sports headline] Natalie Nakase’s Game 4 adjustments may go down in Valkyries franchise history
