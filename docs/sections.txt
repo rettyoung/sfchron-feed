@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 30   Blocked: 14
+Kept: 30   Blocked: 13
 
 Kept, by section:
     30  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    13  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers’ depleted WR corps contributes to Brock Purdy’s forgettable day: ‘That’s a real thing’
@@ -21,4 +21,3 @@ Blocked headlines (check for false positives):
   [sports headline] Natalie Nakase’s Game 4 adjustments may go down in Valkyries franchise history
   [sports headline] Warriors’ Yaxel Lendeborg defends verbal jousting with Luka Doncic: ‘He’s not Michael Jordan’
   [sports headline] Warriors, positioned for victory, wilt down stretch in home-opening loss to Grizzlies
-  [sports headline] Bring on the bratwurst! Brewers in the World Series conjures memories of Kuenn, Yount and Uecker
