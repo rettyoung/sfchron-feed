@@ -1,14 +1,19 @@
 Source used: google_news
-Kept: 28   Blocked: 10
+Kept: 28   Blocked: 14
 
 Kept, by section:
     28  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+    14  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers’ depleted WR corps contributes to Brock Purdy’s forgettable day: ‘That’s a real thing’
+  [sports headline] 49ers receiver Jordan Watkins finally gets his chance, improves odds of expanded role
+  [sports headline] 49ers’ Christian McCaffrey struggles after return, raising concern about his status
+  [sports headline] 49ers throw away perfect record as Falcons feast on mistakes, 23 straight points in 29-20 win
+  [sports headline] Valkyries found a formula for beating the Dream. Game 5 will put it to the test
+  [sports headline] From ‘Natalie the gnat’ to WNBA Finals: VanDerveer admires Valkyries coach’s impact
   [sports headline] Undermanned Warriors put up fight but can’t get past Devin Booker, Suns in Phoenix
   [sports headline] Gabby Williams ‘steps up,’ helps Valkyries return to form in series-tying victory in Atlanta
   [sports headline] Natalie Nakase’s Game 4 adjustments may go down in Valkyries franchise history
@@ -17,4 +22,3 @@ Blocked headlines (check for false positives):
   [sports headline] Bring on the bratwurst! Brewers in the World Series conjures memories of Kuenn, Yount and Uecker
   [sports headline] Brash baller Angel Reese trash-talking her way toward a WNBA championship
   [sports headline] NFL’s old-school safeties love 49ers’ old-soul enforcer Malik Mustapha: ‘I get excited’
-  [sports headline] Steve Kerr returned to Warriors on a new mission. Now comes ‘the reckoning’
