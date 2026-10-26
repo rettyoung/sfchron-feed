@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 34   Blocked: 16
+Kept: 30   Blocked: 17
 
 Kept, by section:
-    34  (unknown)
+    30  (unknown)
 
 Blocked, by reason:
-    16  sports headline
+    17  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] WNBA belatedly puts Valkyries-Dream Finals Game 6 in Atlanta’s State Farm Arena
   [sports headline] 49ers’ depleted WR corps contributes to Brock Purdy’s forgettable day: ‘That’s a real thing’
   [sports headline] 49ers receiver Jordan Watkins finally gets his chance, improves odds of expanded role
   [sports headline] 49ers’ Christian McCaffrey struggles after return, raising concern about his status
