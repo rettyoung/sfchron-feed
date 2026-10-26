@@ -1,16 +1,17 @@
 Source used: google_news
-Kept: 28   Blocked: 14
+Kept: 31   Blocked: 15
 
 Kept, by section:
-    28  (unknown)
+    31  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    15  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers’ depleted WR corps contributes to Brock Purdy’s forgettable day: ‘That’s a real thing’
   [sports headline] 49ers receiver Jordan Watkins finally gets his chance, improves odds of expanded role
   [sports headline] 49ers’ Christian McCaffrey struggles after return, raising concern about his status
+  [sports headline] 49ers game grades: Plenty of blame to go around in surprising first loss
   [sports headline] 49ers throw away perfect record as Falcons feast on mistakes, 23 straight points in 29-20 win
   [sports headline] Valkyries found a formula for beating the Dream. Game 5 will put it to the test
   [sports headline] From ‘Natalie the gnat’ to WNBA Finals: VanDerveer admires Valkyries coach’s impact
