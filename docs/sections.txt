@@ -1,15 +1,17 @@
 Source used: google_news
-Kept: 25   Blocked: 16
+Kept: 25   Blocked: 18
 
 Kept, by section:
     25  (unknown)
 
 Blocked, by reason:
-    15  sports headline
+    17  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Steph Curry revs up for perfect night, watches as Warriors finish rout in Denver for first win
   [sports headline] Valkyries ready for prime time but WNBA stuck in amateur hour with Game 6 debacle
+  [sports headline] Kiah Stokes limits Angel Reese, lights up from 3 to lead Valkyries past Dream in Game 5
   [sports headline] Valkyries’ WNBA Finals run brings business and ‘incredible’ vibe to Mission Bay
   [sports headline] WNBA belatedly puts Valkyries-Dream Finals Game 6 in Atlanta’s State Farm Arena
   [national headline] Trump administration launches new probe of S.F. schools’ ethnic studies curriculum
