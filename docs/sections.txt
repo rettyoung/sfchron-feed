@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 25   Blocked: 15
+Kept: 26   Blocked: 14
 
 Kept, by section:
-    25  (unknown)
+    26  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    13  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -23,4 +23,3 @@ Blocked headlines (check for false positives):
   [sports headline] Gabby Williams ‘steps up,’ helps Valkyries return to form in series-tying victory in Atlanta
   [sports headline] Natalie Nakase’s Game 4 adjustments may go down in Valkyries franchise history
   [sports headline] Warriors’ Yaxel Lendeborg defends verbal jousting with Luka Doncic: ‘He’s not Michael Jordan’
-  [sports headline] Warriors, positioned for victory, wilt down stretch in home-opening loss to Grizzlies
