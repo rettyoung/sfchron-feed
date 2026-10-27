@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 26   Blocked: 18
+Kept: 27   Blocked: 19
 
 Kept, by section:
-    26  (unknown)
+    27  (unknown)
 
 Blocked, by reason:
-    17  sports headline
+    18  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -14,6 +14,7 @@ Blocked headlines (check for false positives):
   [sports headline] Kiah Stokes limits Angel Reese, lights up from 3 to lead Valkyries past Dream in Game 5
   [sports headline] Dream’s Angel Reese and her coach blast officiating in WNBA Finals: ‘Just ridiculous’
   [sports headline] Valkyries’ WNBA Finals run brings business and ‘incredible’ vibe to Mission Bay
+  [sports headline] Zendaya dances to En Vogue during Valkyries game at Chase Center
   [national headline] Trump administration launches new probe of S.F. schools’ ethnic studies curriculum
   [sports headline] 49ers’ Christian McCaffrey has mild hamstring strain. Will he return after bye week?
   [sports headline] 49ers’ depleted WR corps contributes to Brock Purdy’s forgettable day: ‘That’s a real thing’
