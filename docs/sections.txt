@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 27   Blocked: 13
+Kept: 27   Blocked: 14
 
 Kept, by section:
     27  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+    13  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Kiah Stokes limits Angel Reese, lights up from 3 to lead Valkyries past Dream in Game 5
   [sports headline] WNBA belatedly puts Valkyries-Dream Finals Game 6 in Atlanta’s State Farm Arena
   [national headline] Trump administration launches new probe of S.F. schools’ ethnic studies curriculum
   [sports headline] 49ers’ depleted WR corps contributes to Brock Purdy’s forgettable day: ‘That’s a real thing’
