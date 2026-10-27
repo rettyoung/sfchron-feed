@@ -1,8 +1,8 @@
 Source used: google_news
-Kept: 28   Blocked: 20
+Kept: 27   Blocked: 20
 
 Kept, by section:
-    28  (unknown)
+    27  (unknown)
 
 Blocked, by reason:
     19  sports headline
@@ -10,6 +10,7 @@ Blocked, by reason:
 
 Blocked headlines (check for false positives):
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
+  [sports headline] Valkyries’ Nakase calls Veronica Burton WNBA’s ‘best point guard right now.’ These Finals show why
   [sports headline] Steph Curry revs up for perfect night, watches as Warriors finish rout in Denver for first win
   [sports headline] Valkyries ready for prime time but WNBA stuck in amateur hour with Game 6 debacle
   [sports headline] Dream’s Angel Reese and her coach blast officiating in WNBA Finals: ‘Just ridiculous’
@@ -28,4 +29,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries found a formula for beating the Dream. Game 5 will put it to the test
   [sports headline] From ‘Natalie the gnat’ to WNBA Finals: VanDerveer admires Valkyries coach’s impact
   [sports headline] Undermanned Warriors put up fight but can’t get past Devin Booker, Suns in Phoenix
-  [sports headline] Gabby Williams ‘steps up,’ helps Valkyries return to form in series-tying victory in Atlanta
