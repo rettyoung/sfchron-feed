@@ -10,6 +10,7 @@ Blocked, by reason:
 
 Blocked headlines (check for false positives):
   [sports headline] Minnesota’s Jonathan Kuminga looking like player Warriors hoped he’d be
+  [sports headline] 49ers reunite with defensive tackle DeForest Buckner in trade with Colts
   [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
   [sports headline] Flavor Flav wants you to skip work for Valkyries’ WNBA Finals game
@@ -26,4 +27,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers’ Christian McCaffrey struggles after return, raising concern about his status
   [sports headline] 49ers game grades: Plenty of blame to go around in surprising first loss
   [sports headline] 49ers throw away perfect record as Falcons feast on mistakes, 23 straight points in 29-20 win
-  [sports headline] How did Yaxel Lendeborg do in first big test as an offensive centerpiece for Warriors?
