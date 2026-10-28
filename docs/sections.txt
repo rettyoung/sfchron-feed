@@ -1,15 +1,15 @@
 Source used: google_news
-Kept: 31   Blocked: 22
+Kept: 32   Blocked: 22
 
 Kept, by section:
-    31  (unknown)
+    32  (unknown)
 
 Blocked, by reason:
     21  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
-  [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
+  [sports headline] Minnesota’s Jonathan Kuminga looking like player Warriors hoped he’d be
   [sports headline] Flavor Flav wants you to skip work for Valkyries’ WNBA Finals game
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
   [sports headline] Valkyries’ Nakase calls Veronica Burton WNBA’s ‘best point guard right now.’ These Finals show why
