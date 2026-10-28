@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 36   Blocked: 19
+Kept: 37   Blocked: 18
 
 Kept, by section:
-    36  (unknown)
+    37  (unknown)
 
 Blocked, by reason:
-    18  sports headline
+    17  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -27,4 +27,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers game grades: Plenty of blame to go around in surprising first loss
   [sports headline] 49ers throw away perfect record as Falcons feast on mistakes, 23 straight points in 29-20 win
   [sports headline] How did Yaxel Lendeborg do in first big test as an offensive centerpiece for Warriors?
-  [sports headline] Valkyries found a formula for beating the Dream. Game 5 will put it to the test
