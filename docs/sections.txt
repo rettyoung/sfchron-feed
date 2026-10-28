@@ -1,17 +1,19 @@
 Source used: google_news
-Kept: 45   Blocked: 19
+Kept: 44   Blocked: 21
 
 Kept, by section:
-    45  (unknown)
+    44  (unknown)
 
 Blocked, by reason:
-    18  sports headline
+    20  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Minnesota’s Jonathan Kuminga looking like player Warriors hoped he’d be
+  [sports headline] Warriors’ Draymond Green reminds Valkyries on cusp of title: ‘Three is a long way from four’
   [sports headline] 49ers reunite with defensive tackle DeForest Buckner in trade with Colts
   [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
+  [sports headline] Are Valkyries fans the WNBA’s best-dressed?
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
   [sports headline] Flavor Flav wants you to skip work for Valkyries’ WNBA Finals game
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
