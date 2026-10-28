@@ -1,15 +1,15 @@
 Source used: google_news
-Kept: 34   Blocked: 21
+Kept: 35   Blocked: 21
 
 Kept, by section:
-    34  (unknown)
+    35  (unknown)
 
 Blocked, by reason:
     20  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Minnesota’s Jonathan Kuminga looking like player Warriors hoped he’d be
+  [sports headline] Will Game 6 be Valkyries’ breakfast of champions? Here are the key factors
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
   [sports headline] Flavor Flav wants you to skip work for Valkyries’ WNBA Finals game
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
