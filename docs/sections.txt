@@ -1,16 +1,15 @@
 Source used: google_news
-Kept: 44   Blocked: 22
+Kept: 45   Blocked: 19
 
 Kept, by section:
-    44  (unknown)
+    45  (unknown)
 
 Blocked, by reason:
-    21  sports headline
+    18  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Minnesota’s Jonathan Kuminga looking like player Warriors hoped he’d be
-  [sports headline] Warriors’ Draymond Green reminds Valkyries on cusp of title: ‘Three is a long way from four’
   [sports headline] 49ers reunite with defensive tackle DeForest Buckner in trade with Colts
   [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
@@ -29,5 +28,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers’ depleted WR corps contributes to Brock Purdy’s forgettable day: ‘That’s a real thing’
   [sports headline] 49ers receiver Jordan Watkins finally gets his chance, improves odds of expanded role
   [sports headline] 49ers’ Christian McCaffrey struggles after return, raising concern about his status
-  [sports headline] 49ers game grades: Plenty of blame to go around in surprising first loss
-  [sports headline] 49ers throw away perfect record as Falcons feast on mistakes, 23 straight points in 29-20 win
