@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 34   Blocked: 21
+Kept: 33   Blocked: 20
 
 Kept, by section:
-    34  (unknown)
+    33  (unknown)
 
 Blocked, by reason:
-    20  sports headline
+    19  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -29,4 +29,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers throw away perfect record as Falcons feast on mistakes, 23 straight points in 29-20 win
   [sports headline] How did Yaxel Lendeborg do in first big test as an offensive centerpiece for Warriors?
   [sports headline] Valkyries found a formula for beating the Dream. Game 5 will put it to the test
-  [sports headline] From ‘Natalie the gnat’ to WNBA Finals: VanDerveer admires Valkyries coach’s impact
