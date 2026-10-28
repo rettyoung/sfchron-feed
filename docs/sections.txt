@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 37   Blocked: 18
+Kept: 43   Blocked: 20
 
 Kept, by section:
-    37  (unknown)
+    43  (unknown)
 
 Blocked, by reason:
-    17  sports headline
+    19  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -15,8 +15,10 @@ Blocked headlines (check for false positives):
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
   [sports headline] Flavor Flav wants you to skip work for Valkyries’ WNBA Finals game
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
+  [sports headline] Valkyries’ Nakase calls Veronica Burton WNBA’s ‘best point guard right now.’ These Finals show why
   [sports headline] Steph Curry revs up for perfect night, watches as Warriors finish rout in Denver for first win
   [sports headline] Valkyries ready for prime time but WNBA stuck in amateur hour with Game 6 debacle
+  [sports headline] Dream’s Angel Reese and her coach blast officiating in WNBA Finals: ‘Just ridiculous’
   [sports headline] Valkyries’ WNBA Finals run brings business and ‘incredible’ vibe to Mission Bay
   [sports headline] Zendaya dances to En Vogue during Valkyries game at Chase Center
   [sports headline] WNBA belatedly puts Valkyries-Dream Finals Game 6 in Atlanta’s State Farm Arena
