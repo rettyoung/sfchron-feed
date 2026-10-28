@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 28   Blocked: 20
+Kept: 29   Blocked: 21
 
 Kept, by section:
-    28  (unknown)
+    29  (unknown)
 
 Blocked, by reason:
-    19  sports headline
+    20  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
   [sports headline] Valkyries’ Nakase calls Veronica Burton WNBA’s ‘best point guard right now.’ These Finals show why
   [sports headline] Steph Curry revs up for perfect night, watches as Warriors finish rout in Denver for first win
