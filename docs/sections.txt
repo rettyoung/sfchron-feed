@@ -1,31 +1,83 @@
-Source used: google_news
-Kept: 50   Blocked: 21
+Source used: sitemap
+Kept: 105   Blocked: 181
 
 Kept, by section:
-    50  (unknown)
+    41  business
+    26  news
+    10  entertainment
+     9  bayarea
+     5  food
+     5  california
+     3  politics
+     2  sf
+     2  opinion
+     1  tahoe
+     1  totalsf
 
 Blocked, by reason:
-    21  sports headline
+   142  section:sports
+    20  national headline
+    18  section:world
+     1  section:valkyries
 
 Blocked headlines (check for false positives):
-  [sports headline] Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points
-  [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: wide receiver
-  [sports headline] WNBA Finals ticket for under $40? Game 6 matinee turns into a fire sale
-  [sports headline] Grading the 49ers rookies: One clear hit in a good class that could get better
-  [sports headline] 49ers’ spending on Santa Clara election exceeds $2.6M, features barrage of negative ads
-  [sports headline] Minnesota’s Jonathan Kuminga looking like player Warriors hoped he’d be
-  [sports headline] Warriors’ Draymond Green reminds Valkyries on cusp of title: ‘Three is a long way from four’
-  [sports headline] 49ers reunite with defensive tackle DeForest Buckner in trade with Colts
-  [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
-  [sports headline] Are Valkyries fans the WNBA’s best-dressed?
-  [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
-  [sports headline] Flavor Flav wants you to skip work for Valkyries’ WNBA Finals game
-  [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
-  [sports headline] 49ers GM John Lynch endorses struggling kicker Eddy Piñeiro. Here’s why that makes sense
-  [sports headline] Valkyries’ Nakase calls Veronica Burton WNBA’s ‘best point guard right now.’ These Finals show why
-  [sports headline] Steph Curry revs up for perfect night, watches as Warriors finish rout in Denver for first win
-  [sports headline] Valkyries ready for prime time but WNBA stuck in amateur hour with Game 6 debacle
-  [sports headline] Dream’s Angel Reese and her coach blast officiating in WNBA Finals: ‘Just ridiculous’
-  [sports headline] Zendaya dances to En Vogue during Valkyries game at Chase Center
-  [sports headline] WNBA belatedly puts Valkyries-Dream Finals Game 6 in Atlanta’s State Farm Arena
-  [sports headline] 49ers’ Christian McCaffrey has mild hamstring strain. Will he return after bye week?
+  [section:sports] Ohio Supreme Court keeps two dozen basketball players eligible with season openers looming
+  [national headline] Judge blocks Trump administration's Medicaid rule forcing sick recipients to prove frailty
+  [section:sports] College basketball season is here. The eligibility chaos playing out in courthouses comes with it
+  [national headline] Sandy Hook families urge Supreme Court to uphold state and local bans on AR-15-style rifles
+  [section:world] A historic drop for Alphabet's stock drags the US market lower
+  [section:sports] Juventus wins to rise in Women's Champions League standings. Barcelona, Man City also in action
+  [section:sports] Dominican appeals court revokes Wander Franco pardon in sex abuse case
+  [section:sports] Unlikely title race tightens in Sweden as leader Sirius loses. Frosinone surges in Serie A
+  [section:sports] Pacific Northwest Sportswatch Daily Listings
+  [section:sports] Gulf States Sportswatch Daily Listings
+  [section:sports] Why Valkyries’ Game 6 mid-day massacre by Dream shows Draymond was right
+  [national headline] Police chief says shooting outside Virginia GOP offices has nothing to do with election
+  [section:sports] Bye week addition of DeForest Buckner should provide a big lift to the 49ers defense
+  [section:sports] Despite some major injuries, the Giants are in the driver's seat to win the NFC East
+  [section:sports] Chicago Bears acquire DT Jeffery Simmons in pricey trade with the Tennessee Titans
+  [section:sports] Fixer pleads guilty to bribery and wire fraud charges in NCAA basketball point-shaving scheme
+  [section:sports] Young girls skip school with their parents to attend Valkyries' early WNBA Finals watch party
+  [section:world] Netanyahu’s party amplifies unproven claims that Arab-led parties have ‘stolen’ Israel’s election
+  [section:sports] Milwaukee is closing schools for the Brewers' long-awaited World Series title parade Friday
+  [section:sports] Dream blow past Valkyries in WNBA Finals matinee to force decisive Game 7 in S.F.
+  [section:sports] Gray scores 23 points to help hot-shooting Dream beat Valkyries 80-69 to force Game 7 of WNBA Finals
+  [section:sports] Ancelotti brings more young players for Brazil friendlies against Japan and Singapore
+  [national headline] Trump lends support for Darline Graham in South Carolina as Republican anxiety rises in Senate race
+  [section:sports] Randy Bennett thrilled to be back home to lead Arizona State basketball
+  [section:sports] F1 leader Kimi Antonelli has viral illness ahead of Mexico City Grand Prix
+  [section:sports] Houston Texans try to regroup at bye after getting off to 2-5 start
+  [section:sports] Colorado QB Julian Lewis was taken to hospital after medical emergency, father says on social media
+  [section:sports] Chiefs coach: Harrison Butker still the preferred kicker as Justin Tucker joins the practice squad
+  [national headline] CNN, MS NOW and Politico ask court to make Trump access order permanent
+  [national headline] Democratic divisions linger in Michigan Senate race. Will frustration with Trump outweigh them?
+  [national headline] Pentagon accuses newly fired general of leaking sensitive information to the media
+  [section:sports] Red Wings holding Dylan Larkin out of lineup, potentially a step closer to trading former captain
+  [section:world] A US cruise ship suspends a global voyage in Asia due to fuel costs, stranding 200 passengers
+  [section:sports] Duckett and Dawson earn England consolation win over Sri Lanka in ODI tri-series
+  [section:sports] Lyon bowls Bavuma late and Australia tightens grip against South Africa in cricket series decider
+  [section:sports] Skye Blakely loves a challenge. The world champ's gymnastics career didn't give her much choice
+  [section:world] Spain reckons with second deadly train crash of the year ahead of national election
+  [section:world] What to know about Israel's election as results emerge with no clear winner
+  [section:sports] Kraken outlast Maple Leafs 5-4 to spoil No. 1 overall pick Gavin McKenna’s big game
+  [national headline] September 2027 trial date set for man charged with attacking White House correspondents’ dinner
+  [section:sports] Villanova touches down in Rome for college basketball season opener and papal audience
+  [section:sports] Rybakina secures year-end No. 1 ranking at Pan Pacific Open as Osaka eliminated
+  [section:sports] Fernandes benched then backed: Carrick’s captain call amid Man United crisis
+  [national headline] Trump's Justice Department pushes a spate of politically sensitive cases as midterm elections near
+  [section:sports] Roux de Bézieux replaces Grospiron as head of 2030 French Alps Olympics organizers
+  [section:world] Baby orangutans in India expose illegal wildlife trade burgeoning in the country
+  [section:sports] Yelich pays tribute to Uecker after finally leading Brewers to their first World Series title
+  [national headline] Stolen election rhetoric from Trump isn't new. His ability to act on those claims is
+  [section:sports] No. 13 Texas Tech coming off loss in same spot as 2025 when it won 1st Big 12 title and made CFP
+  [section:world] US and Japan agree to establish a Japanese facility for joint missile production
+  [section:sports] Sergio Garcia returning to the European tour after LIV exit and sets Ryder Cup target
+  [section:sports] Today in Sports - LeBron James makes NBA debut, has 25 points, 9 assists, 6 rebounds, and 4 steals
+  [section:sports] South Africa chooses Durban as its preferred city to host 2036 or 2040 Olympics
+  [section:sports] Today in Sports - Week Ahead, October 30 - November 5.
+  [section:sports] Big 12 has Top 25 matchup with Arizona at Texas Tech, Cincy seeks another upset against Utah
+  [section:sports] England soccer player Ivan Toney pleads not guilty to assault and trial set for 2028
+  [section:sports] Dortmund coach urges team effort to stop 'sensational' Harry Kane in Klassiker at Bayern
+  [section:sports] Bangladesh spinners strike back after a stunning batting collapse vs West Indies
+  [section:sports] Pakistani rights lawyer and husband sentenced to 10 years each in cricket security breach case
+  [section:world] UAE diplomat running for UN chief faces questions on her country's alleged support for Sudan rebels
