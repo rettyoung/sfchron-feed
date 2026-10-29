@@ -1,15 +1,14 @@
 Source used: google_news
-Kept: 42   Blocked: 21
+Kept: 48   Blocked: 20
 
 Kept, by section:
-    42  (unknown)
+    48  (unknown)
 
 Blocked, by reason:
-    21  sports headline
+    20  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points
-  [sports headline] San Francisco Giants owner gave $2.6 million to Republicans ahead of midterms
   [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: wide receiver
   [sports headline] Grading the 49ers rookies: One clear hit in a good class that could get better
   [sports headline] 49ers’ spending on Santa Clara election exceeds $2.6M, features barrage of negative ads
