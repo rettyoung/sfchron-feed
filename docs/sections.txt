@@ -1,14 +1,14 @@
 Source used: google_news
-Kept: 51   Blocked: 23
+Kept: 54   Blocked: 23
 
 Kept, by section:
-    51  (unknown)
+    54  (unknown)
 
 Blocked, by reason:
     23  sports headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Valkyries pushed to Game 7 in WNBA Finals. Share your thoughts on Game 6 loss
+  [sports headline] Why Valkyries’ Game 6 mid-day massacre by Dream shows Draymond was right
   [sports headline] Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points
   [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: wide receiver
   [sports headline] WNBA Finals ticket for under $40? Game 6 matinee turns into a fire sale
