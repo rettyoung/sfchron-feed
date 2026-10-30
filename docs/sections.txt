@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 55   Blocked: 19
+Kept: 49   Blocked: 17
 
 Kept, by section:
-    55  (unknown)
+    49  (unknown)
 
 Blocked, by reason:
-    19  sports headline
+    17  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Why Valkyries’ Game 6 midday massacre by Dream shows Draymond was right
@@ -20,10 +20,8 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
   [sports headline] Are Valkyries fans the WNBA’s best-dressed?
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
-  [sports headline] Flavor Flav wants you to skip work for Valkyries’ WNBA Finals game
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
   [sports headline] 49ers GM John Lynch endorses struggling kicker Eddy Piñeiro. Here’s why that makes sense
   [sports headline] Valkyries’ Nakase calls Veronica Burton WNBA’s ‘best point guard right now.’ These Finals show why
   [sports headline] Steph Curry revs up for perfect night, watches as Warriors finish rout in Denver for first win
   [sports headline] Valkyries ready for prime time but WNBA stuck in amateur hour with Game 6 debacle
-  [sports headline] Dream’s Angel Reese and her coach blast officiating in WNBA Finals: ‘Just ridiculous’
