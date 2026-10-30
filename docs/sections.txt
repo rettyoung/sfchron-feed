@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 49   Blocked: 15
+Kept: 54   Blocked: 13
 
 Kept, by section:
-    49  (unknown)
+    54  (unknown)
 
 Blocked, by reason:
-    14  sports headline
+    12  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -13,7 +13,6 @@ Blocked headlines (check for false positives):
   [national headline] A visa program canceled by Trump administration can remain dormant, court rules
   [sports headline] Why Valkyries’ Game 6 midday massacre by Dream shows Draymond was right
   [sports headline] A 9:30 a.m. Valkyries game? S.F. fans showed up anyway — fried chicken and mimosas included
-  [sports headline] Valkyries pushed to Game 7 in WNBA Finals. Share your thoughts on Game 6 loss
   [sports headline] Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points
   [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: Wide receiver
   [sports headline] WNBA Finals ticket for under $40? Game 6 matinee turns into a fire sale
@@ -23,4 +22,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers reunite with defensive tackle DeForest Buckner in trade with Colts
   [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
-  [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
