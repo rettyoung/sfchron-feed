@@ -1,16 +1,17 @@
 Source used: google_news
-Kept: 53   Blocked: 14
+Kept: 56   Blocked: 16
 
 Kept, by section:
-    53  (unknown)
+    56  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    15  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [national headline] A visa program canceled by Trump administration can remain dormant, court rules
   [sports headline] Why Valkyries’ Game 6 midday massacre by Dream shows Draymond was right
+  [sports headline] A 9:30 a.m. Valkyries game? S.F. fans showed up anyway — fried chicken and mimosas included
   [sports headline] Valkyries pushed to Game 7 in WNBA Finals. Share your thoughts on Game 6 loss
   [sports headline] Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points
   [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: Wide receiver
@@ -20,6 +21,7 @@ Blocked headlines (check for false positives):
   [sports headline] Minnesota’s Jonathan Kuminga looking like player Warriors hoped he’d be
   [sports headline] 49ers reunite with defensive tackle DeForest Buckner in trade with Colts
   [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
+  [sports headline] Are Valkyries fans the WNBA’s best-dressed?
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
   [sports headline] 49ers GM John Lynch endorses struggling kicker Eddy Piñeiro. Here’s why that makes sense
