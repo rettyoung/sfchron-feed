@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 50   Blocked: 11
+Kept: 53   Blocked: 12
 
 Kept, by section:
-    50  (unknown)
+    53  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+    11  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Brock Purdy for MVP? His case may depend on this ‘most valuable to Purdy’ 49ers player
   [sports headline] Warriors’ Yaxel Lendeborg is entertaining on the court, at the mic, on your phone — and he won’t stop
   [national headline] A visa program canceled by Trump administration can remain dormant, court rules
   [sports headline] Why Valkyries’ Game 6 midday massacre by Dream shows Draymond was right
