@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 54   Blocked: 20
+Kept: 47   Blocked: 19
 
 Kept, by section:
-    54  (unknown)
+    47  (unknown)
 
 Blocked, by reason:
-    20  sports headline
+    19  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Why Valkyries’ Game 6 midday massacre by Dream shows Draymond was right
@@ -27,4 +27,3 @@ Blocked headlines (check for false positives):
   [sports headline] Steph Curry revs up for perfect night, watches as Warriors finish rout in Denver for first win
   [sports headline] Valkyries ready for prime time but WNBA stuck in amateur hour with Game 6 debacle
   [sports headline] Dream’s Angel Reese and her coach blast officiating in WNBA Finals: ‘Just ridiculous’
-  [sports headline] Zendaya dances to En Vogue during Valkyries game at Chase Center
