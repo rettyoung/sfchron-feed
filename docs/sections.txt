@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 55   Blocked: 19
+Kept: 50   Blocked: 15
 
 Kept, by section:
-    55  (unknown)
+    50  (unknown)
 
 Blocked, by reason:
-    19  sports headline
+    15  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Why Valkyries’ Game 6 midday massacre by Dream shows Draymond was right
+  [sports headline] A 9:30 a.m. Valkyries game? S.F. fans showed up anyway — fried chicken and mimosas included
   [sports headline] Valkyries pushed to Game 7 in WNBA Finals. Share your thoughts on Game 6 loss
   [sports headline] Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points
   [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: Wide receiver
@@ -16,14 +17,9 @@ Blocked headlines (check for false positives):
   [sports headline] Grading the 49ers rookies: One clear hit in a good class that could get better
   [sports headline] 49ers’ spending on Santa Clara election exceeds $2.6M, features barrage of negative ads
   [sports headline] Minnesota’s Jonathan Kuminga looking like player Warriors hoped he’d be
-  [sports headline] Warriors’ Draymond Green reminds Valkyries on cusp of title: ‘Three is a long way from four’
   [sports headline] 49ers reunite with defensive tackle DeForest Buckner in trade with Colts
   [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
   [sports headline] Are Valkyries fans the WNBA’s best-dressed?
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
-  [sports headline] Flavor Flav wants you to skip work for Valkyries’ WNBA Finals game
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
   [sports headline] 49ers GM John Lynch endorses struggling kicker Eddy Piñeiro. Here’s why that makes sense
-  [sports headline] Valkyries’ Nakase calls Veronica Burton WNBA’s ‘best point guard right now.’ These Finals show why
-  [sports headline] Steph Curry revs up for perfect night, watches as Warriors finish rout in Denver for first win
-  [sports headline] Valkyries ready for prime time but WNBA stuck in amateur hour with Game 6 debacle
