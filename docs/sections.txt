@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 49   Blocked: 17
+Kept: 55   Blocked: 19
 
 Kept, by section:
-    49  (unknown)
+    55  (unknown)
 
 Blocked, by reason:
-    17  sports headline
+    19  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Why Valkyries’ Game 6 midday massacre by Dream shows Draymond was right
+  [sports headline] Valkyries pushed to Game 7 in WNBA Finals. Share your thoughts on Game 6 loss
   [sports headline] Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points
   [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: Wide receiver
   [sports headline] WNBA Finals ticket for under $40? Game 6 matinee turns into a fire sale
@@ -20,6 +21,7 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
   [sports headline] Are Valkyries fans the WNBA’s best-dressed?
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
+  [sports headline] Flavor Flav wants you to skip work for Valkyries’ WNBA Finals game
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
   [sports headline] 49ers GM John Lynch endorses struggling kicker Eddy Piñeiro. Here’s why that makes sense
   [sports headline] Valkyries’ Nakase calls Veronica Burton WNBA’s ‘best point guard right now.’ These Finals show why
