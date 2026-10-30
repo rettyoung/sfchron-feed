@@ -1,16 +1,16 @@
 Source used: google_news
-Kept: 46   Blocked: 22
+Kept: 53   Blocked: 20
 
 Kept, by section:
-    46  (unknown)
+    53  (unknown)
 
 Blocked, by reason:
-    22  sports headline
+    20  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] Why Valkyries’ Game 6 mid-day massacre by Dream shows Draymond was right
   [sports headline] Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points
-  [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: wide receiver
+  [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: Wide receiver
   [sports headline] WNBA Finals ticket for under $40? Game 6 matinee turns into a fire sale
   [sports headline] Grading the 49ers rookies: One clear hit in a good class that could get better
   [sports headline] 49ers’ spending on Santa Clara election exceeds $2.6M, features barrage of negative ads
@@ -28,5 +28,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries ready for prime time but WNBA stuck in amateur hour with Game 6 debacle
   [sports headline] Dream’s Angel Reese and her coach blast officiating in WNBA Finals: ‘Just ridiculous’
   [sports headline] Zendaya dances to En Vogue during Valkyries game at Chase Center
-  [sports headline] WNBA belatedly puts Valkyries-Dream Finals Game 6 in Atlanta’s State Farm Arena
-  [sports headline] 49ers’ Christian McCaffrey has mild hamstring strain. Will he return after bye week?
