@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 52   Blocked: 18
+Kept: 51   Blocked: 19
 
 Kept, by section:
-    52  (unknown)
+    51  (unknown)
 
 Blocked, by reason:
-    17  sports headline
+    18  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
@@ -25,5 +25,6 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers game review: Dre Greenlaw’s yelling points to screaming need for cornerback depth
   [sports headline] Are Valkyries fans the WNBA’s best-dressed?
   [sports headline] The Valkyries are playing for a WNBA title — at a time when few fans can watch
+  [sports headline] Flavor Flav wants you to skip work for Valkyries’ WNBA Finals game
   [sports headline] How a month of questions turned Warriors’ Yaxel Lendeborg into force that dominated the Nuggets
   [sports headline] 49ers GM John Lynch endorses struggling kicker Eddy Piñeiro. Here’s why that makes sense
