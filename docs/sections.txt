@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 54   Blocked: 12
+Kept: 53   Blocked: 11
 
 Kept, by section:
-    54  (unknown)
+    53  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+     9  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
@@ -20,4 +20,3 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries pushed to Game 7 in WNBA Finals. Share your thoughts on Game 6 loss
   [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: Wide receiver
   [sports headline] WNBA Finals ticket for under $40? Game 6 matinee turns into a fire sale
-  [sports headline] Grading the 49ers rookies: One clear hit in a good class that could get better
