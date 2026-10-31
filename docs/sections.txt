@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 55   Blocked: 12
+Kept: 46   Blocked: 14
 
 Kept, by section:
-    55  (unknown)
+    46  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+    12  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Warriors, Steph Curry take up for Yaxel Lendeborg in drubbing Luka Doncic, Lakers
   [sports headline] Brock Purdy for MVP? His case may depend on this ‘most valuable to Purdy’ 49ers player
   [national headline] Xavier Becerra sets sights on Trump — not Hilton — as gubernatorial race winds down
   [sports headline] Warriors’ Yaxel Lendeborg is entertaining on the court, at the mic, on your phone — and he won’t stop
@@ -20,4 +21,5 @@ Blocked headlines (check for false positives):
   [sports headline] Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points
   [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: Wide receiver
   [sports headline] WNBA Finals ticket for under $40? Game 6 matinee turns into a fire sale
+  [sports headline] Grading the 49ers rookies: One clear hit in a good class that could get better
   [sports headline] 49ers’ spending on Santa Clara election exceeds $2.6M, features barrage of negative ads
