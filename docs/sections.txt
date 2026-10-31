@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 53   Blocked: 11
+Kept: 56   Blocked: 11
 
 Kept, by section:
-    53  (unknown)
+    56  (unknown)
 
 Blocked, by reason:
      9  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] How and when to watch Game 7 of the WNBA Finals between the Valkyries and Dream
   [sports headline] Warriors, Steph Curry take up for Yaxel Lendeborg in drubbing Luka Doncic, Lakers
   [sports headline] Appeals court orders new trial to determine damages for NFL overcharging ‘Sunday Ticket’ subscribers
   [national headline] Xavier Becerra sets sights on Trump — not Hilton — as gubernatorial race winds down
@@ -19,4 +20,3 @@ Blocked headlines (check for false positives):
   [sports headline] A 9:30 a.m. Valkyries game? S.F. fans showed up anyway — fried chicken and mimosas included
   [sports headline] Valkyries pushed to Game 7 in WNBA Finals. Share your thoughts on Game 6 loss
   [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: Wide receiver
-  [sports headline] WNBA Finals ticket for under $40? Game 6 matinee turns into a fire sale
