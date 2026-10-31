@@ -1,15 +1,16 @@
 Source used: google_news
-Kept: 53   Blocked: 13
+Kept: 54   Blocked: 12
 
 Kept, by section:
-    53  (unknown)
+    54  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+    10  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] Warriors, Steph Curry take up for Yaxel Lendeborg in drubbing Luka Doncic, Lakers
+  [sports headline] Appeals court orders new trial to determine damages for NFL overcharging ‘Sunday Ticket’ subscribers
   [national headline] Xavier Becerra sets sights on Trump — not Hilton — as gubernatorial race winds down
   [sports headline] Warriors’ Yaxel Lendeborg is entertaining on the court, at the mic, on your phone — and he won’t stop
   [sports headline] Valkyries look past bad first quarter in Atlanta toward how to win Game 7 in Ballhalla
@@ -17,8 +18,6 @@ Blocked headlines (check for false positives):
   [sports headline] Why Valkyries’ Game 6 midday massacre by Dream shows Draymond was right
   [sports headline] A 9:30 a.m. Valkyries game? S.F. fans showed up anyway — fried chicken and mimosas included
   [sports headline] Valkyries pushed to Game 7 in WNBA Finals. Share your thoughts on Game 6 loss
-  [sports headline] Warriors outlast Timberwolves in Minnesota behind Steph Curry’s 44 points
   [sports headline] Defensive lineman? Check. Next on the 49ers’ shopping list: Wide receiver
   [sports headline] WNBA Finals ticket for under $40? Game 6 matinee turns into a fire sale
   [sports headline] Grading the 49ers rookies: One clear hit in a good class that could get better
-  [sports headline] 49ers’ spending on Santa Clara election exceeds $2.6M, features barrage of negative ads
