@@ -1,17 +1,17 @@
 Source used: google_news
-Kept: 60   Blocked: 18
+Kept: 55   Blocked: 18
 
 Kept, by section:
-    60  (unknown)
+    55  (unknown)
 
 Blocked, by reason:
     16  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] How the Valkyries were driven to a title by veteran Tiffany Hayes
   [sports headline] Recapping the Valkyries’ run to a WNBA championship in their second season
   [sports headline] It’s no dream, Valkyries claim WNBA title with Game 7 victory
-  [sports headline] When will Valkyries championship parade happen in S.F.? Here are the first details
   [sports headline] Valkyries rally in Game 7 to win WNBA title. Share your thoughts on the historic championship
   [sports headline] Celebrate the Valkyries’ historic WNBA championship with the Chronicle’s hardcover collector’s book
   [sports headline] Valkyries fans dressed up for ‘Boohalla’ Game 7: Here are a few of the best costumes
