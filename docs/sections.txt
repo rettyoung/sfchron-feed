@@ -1,17 +1,20 @@
 Source used: google_news
-Kept: 54   Blocked: 11
+Kept: 61   Blocked: 14
 
 Kept, by section:
-    54  (unknown)
+    61  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+    13  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Valkyries fans dressed up for ‘Boohalla’ Game 7: Here are a few of the best costumes
+  [sports headline] Hot dog! Valkyries’ Kaitlyn Chen bids for pregame levity on Halloween
   [sports headline] Share your thoughts on Game 7 as Valkyries go for first WNBA title
   [sports headline] Not just the Valkyries: Women’s professional sports leagues are exploding
   [sports headline] Warriors, Steph Curry take up for Yaxel Lendeborg in drubbing Luka Doncic, Lakers
+  [sports headline] Brewers deliver the message that baseball is healthy. MLB owners should pay heed
   [sports headline] Appeals court orders new trial to determine damages for NFL overcharging ‘Sunday Ticket’ subscribers
   [national headline] Xavier Becerra sets sights on Trump — not Hilton — as gubernatorial race winds down
   [sports headline] Warriors’ Yaxel Lendeborg is entertaining on the court, at the mic, on your phone — and he won’t stop
