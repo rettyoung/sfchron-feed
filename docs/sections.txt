@@ -1,21 +1,22 @@
 Source used: google_news
-Kept: 57   Blocked: 21
+Kept: 56   Blocked: 22
 
 Kept, by section:
-    57  (unknown)
+    56  (unknown)
 
 Blocked, by reason:
-    20  sports headline
+    21  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Valkyries S.F. championship parade: Here are official details on date, time and route
   [sports headline] Valkyries fans rejoice, say popularity of team certain to continue growing across Bay Area
   [sports headline] How the Valkyries were driven to a title by veteran Tiffany Hayes
   [sports headline] Recapping the Valkyries’ run to a WNBA championship in their second season
   [sports headline] It’s no dream, Valkyries claim WNBA title with Game 7 victory
   [sports headline] Valkyries cement best startup ever status: ‘This is what happens when you invest in women’s sports’
   [sports headline] Gabby Williams writes herself into Bay Area sports history powering Valkyries’ Game 7 win
-  [sports headline] When will Valkyries championship parade happen in S.F.? Here are the first details
+  [sports headline] Subscriber discount: Get your copy of Valkyries championship book ‘Purple Reign”
   [sports headline] Valkyries rally in Game 7 to win WNBA title. Share your thoughts on the historic championship
   [sports headline] Celebrate the Valkyries’ historic WNBA championship with the Chronicle’s hardcover collector’s book
   [sports headline] Valkyries fans dressed up for ‘Boohalla’ Game 7: Here are a few of the best costumes
