@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 54   Blocked: 21
+Kept: 53   Blocked: 22
 
 Kept, by section:
-    54  (unknown)
+    53  (unknown)
 
 Blocked, by reason:
-    20  sports headline
+    21  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] High school flag football top 5: North Coast Section playoffs heat up
   [sports headline] Valkyries S.F. championship parade: Here are official details on date, time and route
   [sports headline] 49ers Bye Week Awards: Hits and misses through promising 6-1 start
   [sports headline] Valkyries fans rejoice, say popularity of team certain to continue growing across Bay Area
