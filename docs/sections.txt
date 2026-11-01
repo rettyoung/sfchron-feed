@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 50   Blocked: 20
+Kept: 51   Blocked: 21
 
 Kept, by section:
-    50  (unknown)
+    51  (unknown)
 
 Blocked, by reason:
-    19  sports headline
+    20  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Valkyries fans rejoice, say popularity of team certain to continue growing across Bay Area
   [sports headline] How the Valkyries were driven to a title by veteran Tiffany Hayes
   [sports headline] Recapping the Valkyries’ run to a WNBA championship in their second season
   [sports headline] It’s no dream, Valkyries claim WNBA title with Game 7 victory
