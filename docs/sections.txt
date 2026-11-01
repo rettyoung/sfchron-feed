@@ -1,22 +1,22 @@
 Source used: google_news
-Kept: 61   Blocked: 18
+Kept: 56   Blocked: 17
 
 Kept, by section:
-    61  (unknown)
+    56  (unknown)
 
 Blocked, by reason:
-    16  sports headline
+    15  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] It’s no dream, Valkyries claim WNBA title with Game 7 victory
+  [sports headline] Valkyries rally in Game 7 to win WNBA title. Share your thoughts on the historic championship
+  [sports headline] Recapping the Valkyries’ run to a WNBA championship in their second season
   [sports headline] Celebrate the Valkyries’ historic WNBA championship with the Chronicle’s hardcover collector’s book
   [sports headline] Valkyries fans dressed up for ‘Boohalla’ Game 7: Here are a few of the best costumes
   [sports headline] Hot dog! Valkyries’ Kaitlyn Chen bids for pregame levity on Halloween
-  [sports headline] Share your thoughts on Game 7 as Valkyries go for first WNBA title
   [sports headline] Not just the Valkyries: Women’s professional sports leagues are exploding
   [sports headline] Warriors, Steph Curry take up for Yaxel Lendeborg in drubbing Luka Doncic, Lakers
-  [sports headline] Brewers deliver the message that baseball is healthy. MLB owners should pay heed
   [sports headline] Appeals court orders new trial to determine damages for NFL overcharging ‘Sunday Ticket’ subscribers
   [sports headline] Brock Purdy for MVP? His case may depend on this ‘most valuable to Purdy’ 49ers player
   [national headline] Xavier Becerra sets sights on Trump — not Hilton — as gubernatorial race winds down
@@ -26,4 +26,3 @@ Blocked headlines (check for false positives):
   [sports headline] Why Valkyries’ Game 6 midday massacre by Dream shows Draymond was right
   [sports headline] A 9:30 a.m. Valkyries game? S.F. fans showed up anyway — fried chicken and mimosas included
   [sports headline] Valkyries pushed to Game 7 in WNBA Finals. Share your thoughts on Game 6 loss
-  [sports headline] San Francisco Giants owner gave $2.6 million to Republicans ahead of midterms
