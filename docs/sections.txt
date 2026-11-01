@@ -1,8 +1,8 @@
 Source used: google_news
-Kept: 52   Blocked: 22
+Kept: 55   Blocked: 22
 
 Kept, by section:
-    52  (unknown)
+    55  (unknown)
 
 Blocked, by reason:
     21  sports headline
@@ -10,9 +10,9 @@ Blocked, by reason:
 
 Blocked headlines (check for false positives):
   [sports headline] Valkyries S.F. championship parade: Here are official details on date, time and route
-  [sports headline] 49ers Bye Week Awards: Hits and misses through promising 6-1 start
   [sports headline] Valkyries fans rejoice, say popularity of team certain to continue growing across Bay Area
   [sports headline] How the Valkyries were driven to a title by veteran Tiffany Hayes
+  [sports headline] Recapping the Valkyries’ run to a WNBA championship in their second season
   [sports headline] It’s no dream, Valkyries claim WNBA title with Game 7 victory
   [sports headline] Valkyries cement best startup ever status: ‘This is what happens when you invest in women’s sports’
   [sports headline] Gabby Williams writes herself into Bay Area sports history powering Valkyries’ Game 7 win
