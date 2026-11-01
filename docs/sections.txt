@@ -5,18 +5,18 @@ Kept, by section:
     54  (unknown)
 
 Blocked, by reason:
-     9  sports headline
-     2  national headline
+    10  sports headline
+     1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Share your thoughts on Game 7 as Valkyries go for first WNBA title
   [sports headline] Not just the Valkyries: Women’s professional sports leagues are exploding
-  [sports headline] How and when to watch Game 7 of the WNBA Finals between the Valkyries and Dream
   [sports headline] Warriors, Steph Curry take up for Yaxel Lendeborg in drubbing Luka Doncic, Lakers
   [sports headline] Appeals court orders new trial to determine damages for NFL overcharging ‘Sunday Ticket’ subscribers
   [national headline] Xavier Becerra sets sights on Trump — not Hilton — as gubernatorial race winds down
   [sports headline] Warriors’ Yaxel Lendeborg is entertaining on the court, at the mic, on your phone — and he won’t stop
   [sports headline] Valkyries look past bad first quarter in Atlanta toward how to win Game 7 in Ballhalla
-  [national headline] A visa program canceled by Trump administration can remain dormant, court rules
   [sports headline] Why Valkyries’ Game 6 midday massacre by Dream shows Draymond was right
   [sports headline] A 9:30 a.m. Valkyries game? S.F. fans showed up anyway — fried chicken and mimosas included
   [sports headline] Valkyries pushed to Game 7 in WNBA Finals. Share your thoughts on Game 6 loss
+  [sports headline] San Francisco Giants owner gave $2.6 million to Republicans ahead of midterms
