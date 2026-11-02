@@ -1,15 +1,18 @@
 Source used: google_news
-Kept: 51   Blocked: 18
+Kept: 50   Blocked: 20
 
 Kept, by section:
-    51  (unknown)
+    50  (unknown)
 
 Blocked, by reason:
-    18  sports headline
+    20  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Warriors’ Yaxel Lendeborg continues to learn, one-up himself with 37 points in win over Clippers
+  [sports headline] Warriors past and present laud Valkyries’ championship, Gabby Williams’ ‘Steph-esque’ performance
   [sports headline] High school flag football top 5: North Coast Section playoffs heat up
   [sports headline] Why a 49ers trade for Vikings receiver Jauan Jennings reportedly fell apart
+  [sports headline] Valkyries S.F. championship parade: See the route map, street closures and traffic impacts
   [sports headline] 49ers Bye Week Awards: Hits and misses through promising 6-1 start
   [sports headline] Valkyries fans rejoice, say popularity of team certain to continue growing across Bay Area
   [sports headline] How the Valkyries were driven to a title by veteran Tiffany Hayes
@@ -17,12 +20,11 @@ Blocked headlines (check for false positives):
   [sports headline] Valkyries cement best startup ever status: ‘This is what happens when you invest in women’s sports’
   [sports headline] Gabby Williams writes herself into Bay Area sports history powering Valkyries’ Game 7 win
   [sports headline] Subscriber discount: Get your copy of Valkyries championship book ‘Purple Reign”
-  [sports headline] Valkyries rally in Game 7 to win WNBA title. Share your thoughts on the historic championship
   [sports headline] Celebrate the Valkyries’ historic WNBA championship with the Chronicle’s hardcover collector’s book
   [sports headline] Valkyries fans dressed up for ‘Boohalla’ Game 7: Here are a few of the best costumes
   [sports headline] Hot dog! Valkyries’ Kaitlyn Chen bids for pregame levity on Halloween
+  [sports headline] Valkyries rally in Game 7 to win WNBA title. Share your thoughts on the historic championship
   [sports headline] Warriors, Steph Curry take up for Yaxel Lendeborg in drubbing Luka Doncic, Lakers
-  [sports headline] Brewers deliver the message that baseball is healthy. MLB owners should pay heed
   [sports headline] Appeals court orders new trial to determine damages for NFL overcharging ‘Sunday Ticket’ subscribers
   [sports headline] Brock Purdy for MVP? His case may depend on this ‘most valuable to Purdy’ 49ers player
   [sports headline] Warriors’ Yaxel Lendeborg is entertaining on the court, at the mic, on your phone — and he won’t stop
