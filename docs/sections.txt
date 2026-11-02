@@ -1,15 +1,15 @@
 Source used: google_news
-Kept: 50   Blocked: 19
+Kept: 51   Blocked: 18
 
 Kept, by section:
-    50  (unknown)
+    51  (unknown)
 
 Blocked, by reason:
-    19  sports headline
+    18  sports headline
 
 Blocked headlines (check for false positives):
-  [sports headline] Why a 49ers trade for Vikings receiver Jauan Jennings reportedly fell apart
   [sports headline] High school flag football top 5: North Coast Section playoffs heat up
+  [sports headline] Why a 49ers trade for Vikings receiver Jauan Jennings reportedly fell apart
   [sports headline] 49ers Bye Week Awards: Hits and misses through promising 6-1 start
   [sports headline] Valkyries fans rejoice, say popularity of team certain to continue growing across Bay Area
   [sports headline] How the Valkyries were driven to a title by veteran Tiffany Hayes
@@ -21,7 +21,6 @@ Blocked headlines (check for false positives):
   [sports headline] Celebrate the Valkyries’ historic WNBA championship with the Chronicle’s hardcover collector’s book
   [sports headline] Valkyries fans dressed up for ‘Boohalla’ Game 7: Here are a few of the best costumes
   [sports headline] Hot dog! Valkyries’ Kaitlyn Chen bids for pregame levity on Halloween
-  [sports headline] Not just the Valkyries: Women’s professional sports leagues are exploding
   [sports headline] Warriors, Steph Curry take up for Yaxel Lendeborg in drubbing Luka Doncic, Lakers
   [sports headline] Brewers deliver the message that baseball is healthy. MLB owners should pay heed
   [sports headline] Appeals court orders new trial to determine damages for NFL overcharging ‘Sunday Ticket’ subscribers
