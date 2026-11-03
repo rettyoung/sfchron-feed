@@ -1,27 +1,25 @@
 Source used: google_news
-Kept: 47   Blocked: 16
+Kept: 31   Blocked: 15
 
 Kept, by section:
-    47  (unknown)
+    31  (unknown)
 
 Blocked, by reason:
     15  sports headline
-     1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] After Draymond Green’s ejection, galvanized Warriors hang on to beat Suns for fifth straight win
+  [sports headline] NFL Inactive Report
+  [sports headline] Why doesn’t Valkyries’ parade route go down Market Street, like most Bay Area champions?
+  [sports headline] Jilted to joyous, how 49ers’ DeForest Buckner overcame hurt and pushed for a reunion
+  [sports headline] Sore but still celebrating, Valkyries are focused on the fun of being WNBA champs
+  [sports headline] Valkyries offer WNBA, other Bay Area teams lessons on supporting fans, winning with grace
   [sports headline] Wayward 49ers receiver Brandon Aiyuk hires agent in first step toward possible NFL return
   [sports headline] Brandon Williams providing Warriors’ bench with some sizzle. So when can he unpack his bags?
-  [national headline] Here’s how Trump is trying to subvert the midterm elections
-  [sports headline] How Valkyries swung big on and off the court, leading to improbable WNBA title
-  [sports headline] Warriors’ Yaxel Lendeborg continues to learn, one-up himself with 37 points in win over Clippers
   [sports headline] Warriors past and present laud Valkyries’ championship, Gabby Williams’ ‘Steph-esque’ performance
   [sports headline] Why a 49ers trade for Vikings receiver Jauan Jennings reportedly fell apart
   [sports headline] Valkyries S.F. championship parade: See the route map, street closures and traffic impacts
-  [sports headline] Valkyries fans rejoice, say popularity of team certain to continue growing across Bay Area
   [sports headline] How the Valkyries were driven to a title by veteran Tiffany Hayes
   [sports headline] It’s no dream, Valkyries claim WNBA title with Game 7 victory
   [sports headline] Valkyries cement best startup ever status: ‘This is what happens when you invest in women’s sports’
   [sports headline] Gabby Williams writes herself into Bay Area sports history powering Valkyries’ Game 7 win
-  [sports headline] Celebrate the Valkyries’ historic WNBA championship with the Chronicle’s hardcover collector’s book
-  [sports headline] Valkyries fans dressed up for ‘Boohalla’ Game 7: Here are a few of the best costumes
-  [sports headline] Valkyries rally in Game 7 to win WNBA title. Share your thoughts on the historic championship
