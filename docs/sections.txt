@@ -1,22 +1,18 @@
 Source used: google_news
-Kept: 33   Blocked: 12
+Kept: 38   Blocked: 8
 
 Kept, by section:
-    33  (unknown)
+    38  (unknown)
 
 Blocked, by reason:
-    12  sports headline
+     8  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] After Draymond Green’s ejection, galvanized Warriors hang on to beat Suns for fifth straight win
+  [sports headline] NFL Inactive Report
   [sports headline] Why doesn’t Valkyries’ parade route go down Market Street, like most Bay Area champions?
   [sports headline] Jilted to joyous, how 49ers’ DeForest Buckner overcame hurt and pushed for a reunion
-  [sports headline] Valkyries offer WNBA, other Bay Area teams lessons on supporting fans, winning with grace
   [sports headline] Wayward 49ers receiver Brandon Aiyuk hires agent in first step toward possible NFL return
   [sports headline] Brandon Williams providing Warriors’ bench with some sizzle. So when can he unpack his bags?
   [sports headline] Warriors past and present laud Valkyries’ championship, Gabby Williams’ ‘Steph-esque’ performance
   [sports headline] Why a 49ers trade for Vikings receiver Jauan Jennings reportedly fell apart
-  [sports headline] Valkyries S.F. championship parade: See the route map, street closures and traffic impacts
-  [sports headline] How the Valkyries were driven to a title by veteran Tiffany Hayes
-  [sports headline] Valkyries cement best startup ever status: ‘This is what happens when you invest in women’s sports’
-  [sports headline] Gabby Williams writes herself into Bay Area sports history powering Valkyries’ Game 7 win
