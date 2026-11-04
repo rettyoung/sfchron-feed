@@ -1,19 +1,21 @@
 Source used: google_news
-Kept: 38   Blocked: 9
+Kept: 54   Blocked: 11
 
 Kept, by section:
-    38  (unknown)
+    54  (unknown)
 
 Blocked, by reason:
-     9  sports headline
+    11  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Brandon Aiyuk files for reinstatement, plans to report to 49ers. What are team’s options?
+  [sports headline] Valkyries parade will close S.F. streets. Here’s how to get there
+  [sports headline] Valkyries-Dream WNBA Finals set viewership records, with league’s 2nd most-watched game in 30 years
+  [sports headline] 49ers rookie Gracen Halton loses starting job but gains mentor in DeForest Buckner
   [sports headline] How Warriors energizer Charles ‘Basketball’ Bassey is trying to seize center opportunity
-  [sports headline] After Draymond Green’s ejection, galvanized Warriors hang on to beat Suns for fifth straight win
   [sports headline] Why doesn’t Valkyries’ parade route go down Market Street, like most Bay Area champions?
   [sports headline] Jilted to joyous, how 49ers’ DeForest Buckner overcame hurt and pushed for a reunion
-  [sports headline] Wayward 49ers receiver Brandon Aiyuk hires agent in first step toward possible NFL return
+  [sports headline] Sore but still celebrating, Valkyries are focused on the fun of being WNBA champs
   [sports headline] Brandon Williams providing Warriors’ bench with some sizzle. So when can he unpack his bags?
+  [sports headline] How Valkyries swung big on and off the court, leading to improbable WNBA title
   [sports headline] Warriors past and present laud Valkyries’ championship, Gabby Williams’ ‘Steph-esque’ performance
-  [sports headline] Valkyries S.F. championship parade: See the route map, street closures and traffic impacts
-  [sports headline] Valkyries cement best startup ever status: ‘This is what happens when you invest in women’s sports’
