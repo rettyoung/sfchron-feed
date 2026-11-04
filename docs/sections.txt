@@ -1,21 +1,33 @@
-Source used: google_news
-Kept: 54   Blocked: 11
+Source used: sitemap
+Kept: 56   Blocked: 10
 
 Kept, by section:
-    54  (unknown)
+    13  election
+    12  entertainment
+     9  bayarea
+     7  politics
+     6  sf
+     2  food
+     2  opinion
+     1  weather-forecast
+     1  california
+     1  weather
+     1  outdoors
+     1  eastbay
 
 Blocked, by reason:
-    11  sports headline
+     7  section:sports
+     2  national headline
+     1  section:valkyries
 
 Blocked headlines (check for false positives):
-  [sports headline] Brandon Aiyuk files for reinstatement, plans to report to 49ers. What are team’s options?
-  [sports headline] Valkyries parade will close S.F. streets. Here’s how to get there
-  [sports headline] Valkyries-Dream WNBA Finals set viewership records, with league’s 2nd most-watched game in 30 years
-  [sports headline] 49ers rookie Gracen Halton loses starting job but gains mentor in DeForest Buckner
-  [sports headline] How Warriors energizer Charles ‘Basketball’ Bassey is trying to seize center opportunity
-  [sports headline] Why doesn’t Valkyries’ parade route go down Market Street, like most Bay Area champions?
-  [sports headline] Jilted to joyous, how 49ers’ DeForest Buckner overcame hurt and pushed for a reunion
-  [sports headline] Sore but still celebrating, Valkyries are focused on the fun of being WNBA champs
-  [sports headline] Brandon Williams providing Warriors’ bench with some sizzle. So when can he unpack his bags?
-  [sports headline] How Valkyries swung big on and off the court, leading to improbable WNBA title
-  [sports headline] Warriors past and present laud Valkyries’ championship, Gabby Williams’ ‘Steph-esque’ performance
+  [section:sports] Warriors’ Steve Kerr on Democrats’ rout: ‘I was looking forward to that $5,000 check’
+  [national headline] Will Alito or Thomas retire to give Trump a lame duck session Supreme Court pick?
+  [section:sports] 49ers-backed candidate for Santa Clara mayor lagging behind in early election returns
+  [section:valkyries] Valkyries parade down S.F. Embarcadero in open-top buses as joyful fans line route
+  [section:sports] Warriors have stopped paying Kristaps Porzingis’ $20M salary. What comes next?
+  [section:sports] Bellarmine football must forfeit all 6 wins after CCS rules San Jose team used ineligible player
+  [section:sports] Brandon Aiyuk files for reinstatement, plans to report to 49ers. What are team’s options?
+  [national headline] Aisha Wahab leads in race to retain Swalwell seat in Congress
+  [section:sports] Bay Area sports calendar, Nov. 4-5
+  [section:sports] 49ers rookie Gracen Halton loses starting job but gains mentor in DeForest Buckner
