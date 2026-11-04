@@ -1,18 +1,19 @@
 Source used: google_news
-Kept: 38   Blocked: 8
+Kept: 38   Blocked: 9
 
 Kept, by section:
     38  (unknown)
 
 Blocked, by reason:
-     8  sports headline
+     9  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] How Warriors energizer Charles ‘Basketball’ Bassey is trying to seize center opportunity
   [sports headline] After Draymond Green’s ejection, galvanized Warriors hang on to beat Suns for fifth straight win
-  [sports headline] NFL Inactive Report
   [sports headline] Why doesn’t Valkyries’ parade route go down Market Street, like most Bay Area champions?
   [sports headline] Jilted to joyous, how 49ers’ DeForest Buckner overcame hurt and pushed for a reunion
   [sports headline] Wayward 49ers receiver Brandon Aiyuk hires agent in first step toward possible NFL return
   [sports headline] Brandon Williams providing Warriors’ bench with some sizzle. So when can he unpack his bags?
   [sports headline] Warriors past and present laud Valkyries’ championship, Gabby Williams’ ‘Steph-esque’ performance
-  [sports headline] Why a 49ers trade for Vikings receiver Jauan Jennings reportedly fell apart
+  [sports headline] Valkyries S.F. championship parade: See the route map, street closures and traffic impacts
+  [sports headline] Valkyries cement best startup ever status: ‘This is what happens when you invest in women’s sports’
