@@ -1,19 +1,22 @@
 Source used: google_news
-Kept: 60   Blocked: 16
+Kept: 65   Blocked: 19
 
 Kept, by section:
-    60  (unknown)
+    65  (unknown)
 
 Blocked, by reason:
-    15  sports headline
-     1  national headline
+    17  sports headline
+     2  national headline
 
 Blocked headlines (check for false positives):
+  [national headline] Will Alito or Thomas retire to give Trump a lame-duck session Supreme Court pick?
+  [sports headline] How Gabby Williams made the Valkyries’ parade a true Bay Area party
   [sports headline] 49ers’ Kyle Shanahan is seeking a wide receiver before the trade deadline. He has a type
+  [sports headline] Valkyries parade wasn’t just about sports. It was a celebration of who we are. All of us
+  [national headline] Democrats won Congress. Can they undo Trump’s health care cuts?
   [sports headline] Purple wave, blue wave: Valkyries parade doubles as election celebration
   [sports headline] 49ers defensive end Nick Bosa practices for the first time in six weeks
   [sports headline] Warriors’ Steve Kerr on Democrats’ rout: ‘I was looking forward to that $5,000 check’
-  [national headline] Will Alito or Thomas retire to give Trump a lame-duck session Supreme Court pick?
   [sports headline] San Francisco Mayor Daniel Lurie debuts custom Valkyries shirt during victory parade
   [sports headline] Brandon Aiyuk files for reinstatement, plans to report to 49ers. What are team’s options?
   [sports headline] Warriors have stopped paying Kristaps Porzingis’ $20M salary. What comes next?
