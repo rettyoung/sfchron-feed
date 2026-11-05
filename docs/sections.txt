@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 65   Blocked: 19
+Kept: 69   Blocked: 17
 
 Kept, by section:
-    65  (unknown)
+    69  (unknown)
 
 Blocked, by reason:
-    17  sports headline
+    15  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
@@ -22,9 +22,7 @@ Blocked headlines (check for false positives):
   [sports headline] Warriors have stopped paying Kristaps Porzingis’ $20M salary. What comes next?
   [sports headline] 49ers-backed candidate for Santa Clara mayor lagging behind in early election returns
   [sports headline] Bay Area will see sunshine for Valkyries parade, then a weekend warmup
-  [sports headline] Valkyries parade will close S.F. streets. Here’s how to get there
   [sports headline] Valkyries-Dream WNBA Finals set viewership records, with league’s 2nd most-watched game in 30 years
   [sports headline] 49ers rookie Gracen Halton loses starting job but gains mentor in DeForest Buckner
   [sports headline] How Warriors energizer Charles ‘Basketball’ Bassey is trying to seize center opportunity
-  [sports headline] Why doesn’t Valkyries’ parade route go down Market Street, like most Bay Area champions?
   [sports headline] Sore but still celebrating, Valkyries are focused on the fun of being WNBA champs
