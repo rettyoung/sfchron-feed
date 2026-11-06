@@ -1,14 +1,18 @@
 Source used: google_news
-Kept: 69   Blocked: 17
+Kept: 68   Blocked: 19
 
 Kept, by section:
-    69  (unknown)
+    68  (unknown)
 
 Blocked, by reason:
-    15  sports headline
-     2  national headline
+    16  sports headline
+     3  national headline
 
 Blocked headlines (check for false positives):
+  [national headline] Harmeet Dhillon leaves Trump Justice Department after 19 months
+  [sports headline] 49ers ‘hope’ to get receiver Mike Evans back in ‘the coming weeks,’ John Lynch says
+  [sports headline] This Chronicle Valkyries cover became an instant icon. For the photographer who took it, it’s a full-circle moment
+  [sports headline] 49ers GM John Lynch doesn’t rule out Brandon Aiyuk reunion: ‘Everything’s possible’
   [national headline] Will Alito or Thomas retire to give Trump a lame-duck session Supreme Court pick?
   [sports headline] How Gabby Williams made the Valkyries’ parade a true Bay Area party
   [sports headline] 49ers’ Kyle Shanahan is seeking a wide receiver before the trade deadline. He has a type
@@ -23,6 +27,4 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers-backed candidate for Santa Clara mayor lagging behind in early election returns
   [sports headline] Bay Area will see sunshine for Valkyries parade, then a weekend warmup
   [sports headline] Valkyries-Dream WNBA Finals set viewership records, with league’s 2nd most-watched game in 30 years
-  [sports headline] 49ers rookie Gracen Halton loses starting job but gains mentor in DeForest Buckner
   [sports headline] How Warriors energizer Charles ‘Basketball’ Bassey is trying to seize center opportunity
-  [sports headline] Sore but still celebrating, Valkyries are focused on the fun of being WNBA champs
