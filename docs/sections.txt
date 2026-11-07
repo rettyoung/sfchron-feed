@@ -1,25 +1,26 @@
 Source used: google_news
-Kept: 69   Blocked: 14
+Kept: 73   Blocked: 16
 
 Kept, by section:
-    69  (unknown)
+    73  (unknown)
 
 Blocked, by reason:
-    12  sports headline
-     2  national headline
+    16  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Warriors’ Kristaps Porzingis stepping away from basketball to prioritize health
+  [sports headline] 49ers, Brandon Aiyuk need to resolve $13 million snag before divorce can be finalized
+  [sports headline] Valkyries were far from a typical title team. Here’s how they came together
   [sports headline] Warriors’ Draymond Green wards off Giannis Antetokounmpo as winning streak reaches six
   [sports headline] Warriors’ Steph Curry conquers old friend Klay Thompson in more ways than one
-  [national headline] Harmeet Dhillon leaves Trump Justice Department after 19 months
   [sports headline] 49ers ‘hope’ to get receiver Mike Evans back in ‘the coming weeks,’ John Lynch says
+  [sports headline] This Chronicle Valkyries cover became an instant icon. For the photographer who took it, it’s a full-circle moment
   [sports headline] 49ers GM John Lynch doesn’t rule out Brandon Aiyuk reunion: ‘Everything’s possible’
-  [national headline] Will Alito or Thomas retire to give Trump a lame-duck session Supreme Court pick?
   [sports headline] How Gabby Williams made the Valkyries’ parade a true Bay Area party
   [sports headline] Photos: Valkyries parade along S.F. Embarcadero in open-top buses as joyful fans line route
   [sports headline] 49ers’ Kyle Shanahan is seeking a wide receiver before the trade deadline. He has a type
-  [sports headline] Valkyries parade wasn’t just about sports. It was a celebration of who we are. All of us
+  [sports headline] 49ers defensive end Nick Bosa practices for the first time in six weeks
   [sports headline] San Francisco Mayor Daniel Lurie debuts custom Valkyries shirt during victory parade
   [sports headline] Brandon Aiyuk files for reinstatement, plans to report to 49ers. What are team’s options?
+  [sports headline] Warriors have stopped paying Kristaps Porzingis’ $20M salary. What comes next?
   [sports headline] Purple wave, blue wave: Valkyries parade doubles as election celebration
-  [sports headline] 49ers rookie Gracen Halton loses starting job but gains mentor in DeForest Buckner
