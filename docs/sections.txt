@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 70   Blocked: 15
+Kept: 61   Blocked: 13
 
 Kept, by section:
-    70  (unknown)
+    61  (unknown)
 
 Blocked, by reason:
-    15  sports headline
+    13  sports headline
 
 Blocked headlines (check for false positives):
   [sports headline] The Valkyries and the midterm elections have restored my faith in America
+  [sports headline] Could 49ers duo of DeForest Buckner and Nick Bosa unleash a Jeffery Simmons-like effect?
   [sports headline] Warriors’ Georges Niang making mark by talking smack, drawing elbows and more
   [sports headline] Report: Judge’s ruling could make Bellarmine eligible for CCS football playoffs
   [sports headline] 49ers-Raiders: DeForest Buckner’s impact? Cousins to Bowers a problem?
@@ -16,10 +17,7 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers’ ‘Hulk’ was a zero-star recruit. Now he’s manhandling NFL linemen
   [sports headline] Warriors’ Kristaps Porzingis stepping away from basketball to prioritize health
   [sports headline] Warriors’ Draymond Green wards off Giannis Antetokounmpo as winning streak reaches six
-  [sports headline] Warriors’ Steph Curry conquers old friend Klay Thompson in more ways than one
   [sports headline] 49ers ‘hope’ to get receiver Mike Evans back in ‘the coming weeks,’ John Lynch says
   [sports headline] This Chronicle Valkyries cover became an instant icon. For the photographer who took it, it’s a full-circle moment
   [sports headline] 49ers GM John Lynch doesn’t rule out Brandon Aiyuk reunion: ‘Everything’s possible’
   [sports headline] How Gabby Williams made the Valkyries’ parade a true Bay Area party
-  [sports headline] Photos: Valkyries parade along S.F. Embarcadero in open-top buses as joyful fans line route
-  [sports headline] 49ers’ Kyle Shanahan is seeking a wide receiver before the trade deadline. He has a type
