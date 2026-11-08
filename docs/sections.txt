@@ -1,23 +1,22 @@
 Source used: google_news
-Kept: 61   Blocked: 13
+Kept: 44   Blocked: 11
 
 Kept, by section:
-    61  (unknown)
+    44  (unknown)
 
 Blocked, by reason:
-    13  sports headline
+    10  sports headline
+     1  national headline
 
 Blocked headlines (check for false positives):
+  [national headline] UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary
   [sports headline] The Valkyries and the midterm elections have restored my faith in America
   [sports headline] Could 49ers duo of DeForest Buckner and Nick Bosa unleash a Jeffery Simmons-like effect?
   [sports headline] Warriors’ Georges Niang making mark by talking smack, drawing elbows and more
   [sports headline] Report: Judge’s ruling could make Bellarmine eligible for CCS football playoffs
   [sports headline] 49ers-Raiders: DeForest Buckner’s impact? Cousins to Bowers a problem?
-  [sports headline] Brandon Aiyuk arrives at 49ers offices as WR seeks NFL return: ‘I’m back to 100%’
   [sports headline] 49ers’ ‘Hulk’ was a zero-star recruit. Now he’s manhandling NFL linemen
+  [sports headline] Brandon Aiyuk arrives at 49ers offices as WR seeks NFL return: ‘I’m back to 100%’
   [sports headline] Warriors’ Kristaps Porzingis stepping away from basketball to prioritize health
   [sports headline] Warriors’ Draymond Green wards off Giannis Antetokounmpo as winning streak reaches six
-  [sports headline] 49ers ‘hope’ to get receiver Mike Evans back in ‘the coming weeks,’ John Lynch says
-  [sports headline] This Chronicle Valkyries cover became an instant icon. For the photographer who took it, it’s a full-circle moment
-  [sports headline] 49ers GM John Lynch doesn’t rule out Brandon Aiyuk reunion: ‘Everything’s possible’
-  [sports headline] How Gabby Williams made the Valkyries’ parade a true Bay Area party
+  [sports headline] Warriors’ Steph Curry conquers old friend Klay Thompson in more ways than one
