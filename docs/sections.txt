@@ -1,20 +1,20 @@
 Source used: google_news
-Kept: 44   Blocked: 11
+Kept: 42   Blocked: 11
 
 Kept, by section:
-    44  (unknown)
+    42  (unknown)
 
 Blocked, by reason:
     10  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Steph Curry rides to the rescue, propels Warriors to seventh straight win
   [national headline] UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary
   [sports headline] The Valkyries and the midterm elections have restored my faith in America
   [sports headline] Could 49ers duo of DeForest Buckner and Nick Bosa unleash a Jeffery Simmons-like effect?
   [sports headline] Warriors’ Georges Niang making mark by talking smack, drawing elbows and more
   [sports headline] Report: Judge’s ruling could make Bellarmine eligible for CCS football playoffs
-  [sports headline] 49ers-Raiders: DeForest Buckner’s impact? Cousins to Bowers a problem?
   [sports headline] 49ers’ ‘Hulk’ was a zero-star recruit. Now he’s manhandling NFL linemen
   [sports headline] Brandon Aiyuk arrives at 49ers offices as WR seeks NFL return: ‘I’m back to 100%’
   [sports headline] Warriors’ Kristaps Porzingis stepping away from basketball to prioritize health
