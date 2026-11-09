@@ -1,25 +1,24 @@
 Source used: google_news
-Kept: 32   Blocked: 14
+Kept: 29   Blocked: 13
 
 Kept, by section:
-    32  (unknown)
+    29  (unknown)
 
 Blocked, by reason:
-    12  sports headline
-     2  national headline
+    10  sports headline
+     3  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers rookie Gracen Halton suffers season-ending broken ankle against Raiders
   [sports headline] Viral video of 49ers and Raiders fans brawling prompts police investigation
   [sports headline] Fred Warner’s demolition of Raiders leaves 49ers in awe: ‘He’s playing out of his mind’
-  [sports headline] 49ers ride takeaways, effective ground game to win over Raiders and 7-1 record
+  [sports headline] Warriors guard Will Richard to miss time with torn ligament in left thumb
+  [sports headline] 49ers game grades: Defense feasts on five turnovers to rout Raiders
   [national headline] Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat
+  [national headline] Sean Penn tells S.F. crowd why he thinks Ukraine can prevail after U.S. midterms
   [sports headline] For Giants, GM meetings offer chance to do business before possible lockout
   [national headline] UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary
-  [sports headline] The Valkyries and the midterm elections have restored my faith in America
   [sports headline] Could 49ers duo of DeForest Buckner and Nick Bosa unleash a Jeffery Simmons-like effect?
-  [sports headline] Warriors’ Georges Niang making mark by talking smack, drawing elbows and more
-  [sports headline] Report: Judge’s ruling could make Bellarmine eligible for CCS football playoffs
+  [sports headline] Bellarmine, at least temporarily, included in CCS football playoffs
   [sports headline] Brandon Aiyuk arrives at 49ers offices as WR seeks NFL return: ‘I’m back to 100%’
   [sports headline] Warriors’ Kristaps Porzingis stepping away from basketball to prioritize health
-  [sports headline] Warriors’ Steph Curry conquers old friend Klay Thompson in more ways than one
