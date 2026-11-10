@@ -1,20 +1,21 @@
 Source used: google_news
-Kept: 29   Blocked: 9
+Kept: 28   Blocked: 10
 
 Kept, by section:
-    29  (unknown)
+    28  (unknown)
 
 Blocked, by reason:
      7  sports headline
-     2  national headline
+     3  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers WR Brandon Aiyuk gets reinstated to NFL. What happens next?
+  [sports headline] Shocking 49ers-Raiders fan brawls a sad reminder of sports’ ugly underbelly
   [sports headline] ‘Fan-on-fan violence’: Brawls at 49ers-Raiders game lead to 11 arrests, 45 ejections
-  [sports headline] 49ers WR Brandon Aiyuk reinstated, NFL grants team a roster exemption
   [sports headline] 49ers rookie Gracen Halton suffers season-ending broken ankle against Raiders
   [sports headline] Viral video of 49ers and Raiders fans brawling prompts police investigation
-  [sports headline] Fred Warner’s demolition of Raiders leaves 49ers in awe: ‘He’s playing out of his mind’
+  [sports headline] Warriors guard Will Richard to miss time with torn ligament in left thumb
   [national headline] Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat
+  [national headline] Sean Penn tells S.F. crowd why he thinks Ukraine can prevail after U.S. midterms
   [national headline] UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary
   [sports headline] Could 49ers duo of DeForest Buckner and Nick Bosa unleash a Jeffery Simmons-like effect?
-  [sports headline] Bellarmine, at least temporarily, included in CCS football playoffs
