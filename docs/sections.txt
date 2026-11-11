@@ -1,25 +1,25 @@
 Source used: google_news
-Kept: 30   Blocked: 14
+Kept: 33   Blocked: 14
 
 Kept, by section:
-    30  (unknown)
+    33  (unknown)
 
 Blocked, by reason:
     12  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Buster Posey, Giants operating with sense of urgency at GM meetings
   [sports headline] Brandon Aiyuk’s agent weighs in on 49ers acrimony, the $13M dispute, and WR’s future
   [sports headline] Warriors’ Brandon Williams avoids structural damage to hamstring, source says
-  [sports headline] Warriors’ surprising turnaround has changed everything about their present — and future
   [sports headline] 49ers add wide receiver Keenan Allen in trade with Colts before deadline
   [sports headline] Ex-Warriors guard Jordan Poole wants back in Golden State: ‘Do I miss it? Hell, yeah’
   [sports headline] 49ers game review: The sack-less, new-look defense; ‘salty’ Brock Purdy and Kyle Shanahan
   [sports headline] Shocking 49ers-Raiders fan brawls a sad reminder of sports’ ugly underbelly
   [sports headline] ‘Fan-on-fan violence’: Brawls at 49ers-Raiders game lead to 11 arrests, 45 ejections
-  [sports headline] 49ers WR Brandon Aiyuk gets reinstated to NFL. What happens next?
   [sports headline] 49ers rookie Gracen Halton suffers season-ending broken ankle against Raiders
   [sports headline] Viral video of 49ers and Raiders fans brawling prompts police investigation
+  [sports headline] Fred Warner’s demolition of Raiders leaves 49ers in awe: ‘He’s playing out of his mind’
   [sports headline] 49ers game grades: Defense feasts on five turnovers to rout Raiders
   [national headline] Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat
   [national headline] Sean Penn tells S.F. crowd why he thinks Ukraine can prevail after U.S. midterms
