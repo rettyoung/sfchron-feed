@@ -1,20 +1,21 @@
 Source used: google_news
-Kept: 42   Blocked: 10
+Kept: 42   Blocked: 11
 
 Kept, by section:
     42  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+    11  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Yaxel Lendeborg gives his all, but Warriors crumple late in loss to Rockets amid Steph Curry’s exit
+  [sports headline] Warriors’ Steph Curry exits game against Rockets with ab soreness, ruled out for night
   [sports headline] Steph Curry shooting left-handed? Warriors’ Brandin Podziemski made it happen to improve his game
   [sports headline] Buster Posey, Giants operating with sense of urgency at GM meetings
+  [sports headline] Harrison Bader likely back with Giants for 2027: ‘He feels a sense of duty’
   [sports headline] Warriors’ Brandon Williams avoids structural damage to hamstring, source says
   [sports headline] Ex-Warriors guard Jordan Poole wants back in Golden State: ‘Do I miss it? Hell, yeah’
   [sports headline] Jimmy Butler tries out coaching and Warriors try on contender status as streak grows to eight
+  [sports headline] 49ers game review: The sack-less, new-look defense; ‘salty’ Brock Purdy and Kyle Shanahan
   [sports headline] Shocking 49ers-Raiders fan brawls a sad reminder of sports’ ugly underbelly
   [sports headline] ‘Fan-on-fan violence’: Brawls at 49ers-Raiders game lead to 11 arrests, 45 ejections
-  [sports headline] 49ers rookie Gracen Halton suffers season-ending broken ankle against Raiders
-  [sports headline] Viral video of 49ers and Raiders fans brawling prompts police investigation
-  [sports headline] 49ers game grades: Defense feasts on five turnovers to rout Raiders
