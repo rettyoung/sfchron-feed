@@ -1,24 +1,26 @@
 Source used: google_news
-Kept: 28   Blocked: 14
+Kept: 24   Blocked: 15
 
 Kept, by section:
-    28  (unknown)
+    24  (unknown)
 
 Blocked, by reason:
     14  sports headline
+     1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Will 49ers’ Keenan Allen be suspended this season? Coach says it’s ‘possible’
   [sports headline] Yaxel Lendeborg gives his all, but Warriors crumple late in loss to Rockets after Steph Curry’s exit
   [sports headline] Warriors’ Steph Curry exits game with ab soreness; team awaits MRI results
+  [sports headline] Giants need help, but will they make trades, sign free agents before an MLB lockout?
   [sports headline] Warriors star Steph Curry claps back at weird podcast criticism of wife Ayesha Curry
   [sports headline] Steph Curry shooting left-handed? Warriors’ Brandin Podziemski made it happen to improve his game
+  [national headline] PBS survived Trump’s worst. Now ‘it’s going to get interesting again,’ says CEO
   [sports headline] Buster Posey, Giants operating with sense of urgency at GM meetings
   [sports headline] San Jose man seen in video of 49ers-Raiders gameday brawl arrested, police say
   [sports headline] Harrison Bader likely back with Giants for 2027: ‘He feels a sense of duty’
   [sports headline] Brandon Aiyuk’s agent weighs in on 49ers acrimony, the $13M dispute, and WR’s future
   [sports headline] Warriors’ Brandon Williams avoids structural damage to hamstring, source says
+  [sports headline] Warriors’ surprising turnaround has changed everything about their present — and future
   [sports headline] 49ers add wide receiver Keenan Allen in trade with Colts before deadline
   [sports headline] Ex-Warriors guard Jordan Poole wants back in Golden State: ‘Do I miss it? Hell, yeah’
-  [sports headline] Jimmy Butler tries out coaching and Warriors try on contender status as streak grows to eight
-  [sports headline] 49ers game review: The sack-less, new-look defense; ‘salty’ Brock Purdy and Kyle Shanahan
-  [sports headline] Shocking 49ers-Raiders fan brawls a sad reminder of sports’ ugly underbelly
