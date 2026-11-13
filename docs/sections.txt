@@ -1,19 +1,19 @@
 Source used: google_news
-Kept: 27   Blocked: 16
+Kept: 28   Blocked: 15
 
 Kept, by section:
-    27  (unknown)
+    28  (unknown)
 
 Blocked, by reason:
-    15  sports headline
+    14  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers are becoming the 30-something Niners, adding to Super Bowl urgency
+  [sports headline] Section football playoffs: Latest on Bellarmine and top 10 NCS and CCS matchups to watch
   [sports headline] Will 49ers’ Keenan Allen be suspended this season? Coach says it’s ‘possible’
   [sports headline] Yaxel Lendeborg gives his all, but Warriors crumple late in loss to Rockets after Steph Curry’s exit
   [sports headline] Warriors’ Steph Curry exits game with ab soreness; team awaits MRI results
-  [sports headline] Giants need help, but will they make trades, sign free agents before an MLB lockout?
   [sports headline] Warriors star Steph Curry claps back at weird podcast criticism of wife Ayesha Curry
   [sports headline] Steph Curry shooting left-handed? Warriors’ Brandin Podziemski made it happen to improve his game
   [national headline] PBS survived Trump’s worst. Now ‘it’s going to get interesting again,’ says CEO
@@ -24,4 +24,3 @@ Blocked headlines (check for false positives):
   [sports headline] Warriors’ Brandon Williams avoids structural damage to hamstring, source says
   [sports headline] Warriors’ surprising turnaround has changed everything about their present — and future
   [sports headline] 49ers add wide receiver Keenan Allen in trade with Colts before deadline
-  [sports headline] Ex-Warriors guard Jordan Poole wants back in Golden State: ‘Do I miss it? Hell, yeah’
