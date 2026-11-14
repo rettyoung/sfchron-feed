@@ -1,26 +1,22 @@
 Source used: google_news
-Kept: 28   Blocked: 15
+Kept: 25   Blocked: 11
 
 Kept, by section:
-    28  (unknown)
+    25  (unknown)
 
 Blocked, by reason:
-    14  sports headline
-     1  national headline
+     9  sports headline
+     2  national headline
 
 Blocked headlines (check for false positives):
+  [national headline] Letters: Let’s restore the American values Trump and Hegseth’s war crimes are destroying
   [sports headline] 49ers are becoming the 30-something Niners, adding to Super Bowl urgency
+  [sports headline] Warriors without Steph Curry might be worse off than you realize. How can they stay afloat?
   [sports headline] Section football playoffs: Latest on Bellarmine and top 10 NCS and CCS matchups to watch
-  [sports headline] Will 49ers’ Keenan Allen be suspended this season? Coach says it’s ‘possible’
   [sports headline] Yaxel Lendeborg gives his all, but Warriors crumple late in loss to Rockets after Steph Curry’s exit
   [sports headline] Warriors’ Steph Curry exits game with ab soreness; team awaits MRI results
   [sports headline] Warriors star Steph Curry claps back at weird podcast criticism of wife Ayesha Curry
-  [sports headline] Steph Curry shooting left-handed? Warriors’ Brandin Podziemski made it happen to improve his game
   [national headline] PBS survived Trump’s worst. Now ‘it’s going to get interesting again,’ says CEO
   [sports headline] Buster Posey, Giants operating with sense of urgency at GM meetings
   [sports headline] San Jose man seen in video of 49ers-Raiders gameday brawl arrested, police say
   [sports headline] Harrison Bader likely back with Giants for 2027: ‘He feels a sense of duty’
-  [sports headline] Brandon Aiyuk’s agent weighs in on 49ers acrimony, the $13M dispute, and WR’s future
-  [sports headline] Warriors’ Brandon Williams avoids structural damage to hamstring, source says
-  [sports headline] Warriors’ surprising turnaround has changed everything about their present — and future
-  [sports headline] 49ers add wide receiver Keenan Allen in trade with Colts before deadline
