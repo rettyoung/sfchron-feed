@@ -1,22 +1,21 @@
 Source used: google_news
-Kept: 25   Blocked: 11
+Kept: 30   Blocked: 10
 
 Kept, by section:
-    25  (unknown)
+    30  (unknown)
 
 Blocked, by reason:
-     9  sports headline
+     8  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
-  [national headline] Letters: Let’s restore the American values Trump and Hegseth’s war crimes are destroying
+  [national headline] Trump’s interior secretary skips Presidio Trust meeting as residents hound board about rent hikes
   [sports headline] 49ers are becoming the 30-something Niners, adding to Super Bowl urgency
   [sports headline] Warriors without Steph Curry might be worse off than you realize. How can they stay afloat?
   [sports headline] Section football playoffs: Latest on Bellarmine and top 10 NCS and CCS matchups to watch
+  [sports headline] Will 49ers’ Keenan Allen be suspended this season? Coach says it’s ‘possible’
   [sports headline] Yaxel Lendeborg gives his all, but Warriors crumple late in loss to Rockets after Steph Curry’s exit
   [sports headline] Warriors’ Steph Curry exits game with ab soreness; team awaits MRI results
+  [sports headline] Giants need help, but will they make trades, sign free agents before an MLB lockout?
   [sports headline] Warriors star Steph Curry claps back at weird podcast criticism of wife Ayesha Curry
   [national headline] PBS survived Trump’s worst. Now ‘it’s going to get interesting again,’ says CEO
-  [sports headline] Buster Posey, Giants operating with sense of urgency at GM meetings
-  [sports headline] San Jose man seen in video of 49ers-Raiders gameday brawl arrested, police say
-  [sports headline] Harrison Bader likely back with Giants for 2027: ‘He feels a sense of duty’
