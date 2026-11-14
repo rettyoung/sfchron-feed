@@ -1,16 +1,16 @@
 Source used: google_news
-Kept: 28   Blocked: 8
+Kept: 31   Blocked: 8
 
 Kept, by section:
-    28  (unknown)
+    31  (unknown)
 
 Blocked, by reason:
      7  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers to face struggling Cowboys defense, but S.F. has concerns as well
   [national headline] Trump’s interior secretary skips Presidio Trust meeting as residents hound board about rent hikes
-  [sports headline] 49ers are becoming the 30-something Niners, adding to Super Bowl urgency
   [sports headline] Warriors without Steph Curry might be worse off than you realize. How can they stay afloat?
   [sports headline] Will 49ers’ Keenan Allen be suspended this season? Coach says it’s ‘possible’
   [sports headline] Yaxel Lendeborg gives his all, but Warriors crumple late in loss to Rockets after Steph Curry’s exit
