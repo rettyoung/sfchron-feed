@@ -1,19 +1,20 @@
 Source used: google_news
-Kept: 31   Blocked: 8
+Kept: 34   Blocked: 9
 
 Kept, by section:
-    31  (unknown)
+    34  (unknown)
 
 Blocked, by reason:
      7  sports headline
-     1  national headline
+     2  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] 49ers to face struggling Cowboys defense, but S.F. has concerns as well
   [sports headline] After his father’s death, 49ers’ Corliss Waitman found purpose amid his pain
+  [sports headline] Warriors’ Yaxel Lendeborg wonders what went wrong in lopsided loss to Spurs
+  [national headline] Letters: Let’s restore the American values Trump and Hegseth’s war crimes are destroying
   [national headline] Trump’s interior secretary skips Presidio Trust meeting as residents hound board about rent hikes
   [sports headline] Warriors without Steph Curry might be worse off than you realize. How can they stay afloat?
-  [sports headline] Will 49ers’ Keenan Allen be suspended this season? Coach says it’s ‘possible’
+  [sports headline] Section football playoffs: Latest on Bellarmine and top 10 NCS and CCS matchups to watch
   [sports headline] Yaxel Lendeborg gives his all, but Warriors crumple late in loss to Rockets after Steph Curry’s exit
   [sports headline] Warriors’ Steph Curry exits game with ab soreness; team awaits MRI results
-  [sports headline] Giants need help, but will they make trades, sign free agents before an MLB lockout?
