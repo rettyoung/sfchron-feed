@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 34   Blocked: 9
+Kept: 35   Blocked: 8
 
 Kept, by section:
-    34  (unknown)
+    35  (unknown)
 
 Blocked, by reason:
-     7  sports headline
+     6  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
@@ -14,7 +14,6 @@ Blocked headlines (check for false positives):
   [sports headline] Warriors’ Yaxel Lendeborg wonders what went wrong in lopsided loss to Spurs
   [national headline] Letters: Let’s restore the American values Trump and Hegseth’s war crimes are destroying
   [national headline] Trump’s interior secretary skips Presidio Trust meeting as residents hound board about rent hikes
+  [sports headline] 49ers are becoming the 30-something Niners, adding to Super Bowl urgency
   [sports headline] Warriors without Steph Curry might be worse off than you realize. How can they stay afloat?
-  [sports headline] Section football playoffs: Latest on Bellarmine and top 10 NCS and CCS matchups to watch
   [sports headline] Yaxel Lendeborg gives his all, but Warriors crumple late in loss to Rockets after Steph Curry’s exit
-  [sports headline] Warriors’ Steph Curry exits game with ab soreness; team awaits MRI results
