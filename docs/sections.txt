@@ -1,17 +1,13 @@
 Source used: google_news
-Kept: 32   Blocked: 7
+Kept: 35   Blocked: 3
 
 Kept, by section:
-    32  (unknown)
+    35  (unknown)
 
 Blocked, by reason:
-     7  sports headline
+     3  sports headline
 
 Blocked headlines (check for false positives):
-  [sports headline] In 49ers debut, Keenan Allen proves to be a seamless fit for Shanahan offense
-  [sports headline] 49ers outlast Cowboys in historic offensive slugfest behind Christian McCaffrey’s 3 TDs
   [sports headline] Are 49ers due for a reality check? Red flags emerged in wild win over Cowboys
-  [sports headline] Giants trade former closer Ryan Walker, one of the Pride Night protesters, to Brewers
-  [sports headline] How can Warriors survive without Steph Curry? By being defensive ‘velociraptors’
-  [sports headline] NFL Inactive Report
+  [sports headline] Section football playoffs: Acalanes, Pittsburg total 18 TDs in wild first-round game
   [sports headline] 49ers to face struggling Cowboys defense, but S.F. has concerns as well
