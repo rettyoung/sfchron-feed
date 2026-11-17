@@ -1,18 +1,17 @@
 Source used: google_news
-Kept: 42   Blocked: 7
+Kept: 38   Blocked: 6
 
 Kept, by section:
-    42  (unknown)
+    38  (unknown)
 
 Blocked, by reason:
-     6  sports headline
+     5  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] ‘Madden’ review: Nicolas Cage and Christian Bale fumble this Raiders legend’s biopic
+  [sports headline] Yaxel Lendeborg’s new look didn’t help the Warriors on Monday. What lineup experimentation could stabilize Golden State?
   [sports headline] Giants dynasty stars Buster Posey, Pablo Sandoval on 2027 Hall of Fame ballot
   [national headline] U.S. Supreme Court rejects Trump bid to cut UC research funds over diversity and climate views
-  [sports headline] In 49ers debut, Keenan Allen proves to be a seamless fit for Shanahan offense
   [sports headline] 49ers outlast Cowboys in historic offensive slugfest behind Christian McCaffrey’s 3 TDs
   [sports headline] Are 49ers due for a reality check? Red flags emerged in wild win over Cowboys
-  [sports headline] Giants trade former closer Ryan Walker, one of the Pride Night protesters, to Brewers
-  [sports headline] 49ers to face struggling Cowboys defense, but S.F. has concerns as well
