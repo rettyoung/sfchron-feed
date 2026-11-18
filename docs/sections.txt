@@ -1,19 +1,23 @@
 Source used: google_news
-Kept: 37   Blocked: 8
+Kept: 43   Blocked: 12
 
 Kept, by section:
-    37  (unknown)
+    43  (unknown)
 
 Blocked, by reason:
-     7  sports headline
-     1  national headline
+    10  sports headline
+     2  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Yaxel Lendeborg brought ‘aura gambles’ and Dusty May’s lessons from Michigan to Warriors
+  [national headline] Biden says Pelosi worked ‘furiously’ to force him out while supporting him publicly
   [sports headline] ‘Madden’ review: Nicolas Cage and Christian Bale fumble this Raiders legend’s biopic
   [sports headline] Yaxel Lendeborg’s new look didn’t help the Warriors on Monday. What lineup experimentation could stabilize Golden State?
-  [sports headline] Mike Evans to join 49ers in Colorado, playing vs. Vikings in Mexico City possible
   [sports headline] 49ers game review: Nick Bosa in career-worst drought. How bad did it look in Dallas?
+  [sports headline] Mike Evans to join 49ers in Colorado, playing vs. Vikings in Mexico City possible
   [national headline] U.S. Supreme Court rejects Trump bid to cut UC research funds over diversity and climate views
   [sports headline] 49ers outlast Cowboys in historic offensive slugfest behind Christian McCaffrey’s 3 TDs
+  [sports headline] In 49ers debut, Keenan Allen proves to be a seamless fit for Shanahan offense
   [sports headline] Are 49ers due for a reality check? Red flags emerged in wild win over Cowboys
   [sports headline] Giants trade former closer Ryan Walker, one of the Pride Night protesters, to Brewers
+  [sports headline] Section football playoffs: Acalanes, Pittsburg total 18 TDs in wild first-round game
