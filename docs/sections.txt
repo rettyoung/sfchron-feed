@@ -1,17 +1,18 @@
 Source used: google_news
-Kept: 38   Blocked: 6
+Kept: 37   Blocked: 7
 
 Kept, by section:
-    38  (unknown)
+    37  (unknown)
 
 Blocked, by reason:
-     5  sports headline
+     6  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] ‘Madden’ review: Nicolas Cage and Christian Bale fumble this Raiders legend’s biopic
   [sports headline] Yaxel Lendeborg’s new look didn’t help the Warriors on Monday. What lineup experimentation could stabilize Golden State?
-  [sports headline] Giants dynasty stars Buster Posey, Pablo Sandoval on 2027 Hall of Fame ballot
+  [sports headline] Mike Evans to join 49ers in Colorado, playing vs. Vikings in Mexico City possible
+  [sports headline] 49ers game review: Nick Bosa in career-worst drought. How bad did it look in Dallas?
   [national headline] U.S. Supreme Court rejects Trump bid to cut UC research funds over diversity and climate views
   [sports headline] 49ers outlast Cowboys in historic offensive slugfest behind Christian McCaffrey’s 3 TDs
   [sports headline] Are 49ers due for a reality check? Red flags emerged in wild win over Cowboys
