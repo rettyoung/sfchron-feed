@@ -1,11 +1,11 @@
 Source used: google_news
-Kept: 43   Blocked: 12
+Kept: 51   Blocked: 10
 
 Kept, by section:
-    43  (unknown)
+    51  (unknown)
 
 Blocked, by reason:
-    10  sports headline
+     8  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
@@ -19,5 +19,3 @@ Blocked headlines (check for false positives):
   [sports headline] 49ers outlast Cowboys in historic offensive slugfest behind Christian McCaffrey’s 3 TDs
   [sports headline] In 49ers debut, Keenan Allen proves to be a seamless fit for Shanahan offense
   [sports headline] Are 49ers due for a reality check? Red flags emerged in wild win over Cowboys
-  [sports headline] Giants trade former closer Ryan Walker, one of the Pride Night protesters, to Brewers
-  [sports headline] Section football playoffs: Acalanes, Pittsburg total 18 TDs in wild first-round game
