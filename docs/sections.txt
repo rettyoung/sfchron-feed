@@ -1,17 +1,18 @@
 Source used: google_news
-Kept: 48   Blocked: 6
+Kept: 54   Blocked: 7
 
 Kept, by section:
-    48  (unknown)
+    54  (unknown)
 
 Blocked, by reason:
-     4  sports headline
+     5  sports headline
      2  national headline
 
 Blocked headlines (check for false positives):
   [sports headline] As Yaxel Lendeborg adapts to life, losing in the NBA, Kyrie Irving has advice for Warriors’ rookie
+  [sports headline] 49ers fans were expecting to see the same Nick Bosa. So was Nick Bosa: ‘I'm going to get better’
   [sports headline] Elevation gain? 49ers hope for an edge vs. Vikings in Mexico City by getting expletives out early
   [sports headline] How is Gabby Williams feeling in Valkyries’ title afterglow? At home, and loving it
-  [national headline] Immigration judges challenge Trump policy barring public comments on immigration
   [sports headline] Yaxel Lendeborg brought ‘aura gambles’ and Dusty May’s lessons from Michigan to Warriors
+  [national headline] Immigration judges challenge Trump policy barring public comments on immigration
   [national headline] Biden says Pelosi worked ‘furiously’ to force him out while supporting him publicly
