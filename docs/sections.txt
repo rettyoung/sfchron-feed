@@ -1,18 +1,17 @@
 Source used: google_news
-Kept: 58   Blocked: 7
+Kept: 48   Blocked: 6
 
 Kept, by section:
-    58  (unknown)
+    48  (unknown)
 
 Blocked, by reason:
-     6  sports headline
+     5  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers will face an ‘elite defense’ Sunday. Can the team withstand Vikings’ rush?
   [sports headline] Santa Clara’s next mayor on 49ers: ‘They should stay out of city politics’
   [national headline] Melania Trump gives a peek inside her marriage, motherhood and more in new series
   [sports headline] ‘It felt like a calling’: How 49ers’ Christian McCaffrey is fighting for veterans
   [sports headline] Busted thumb and all, Warriors’ Will Richard is playing himself into larger role
   [sports headline] As Yaxel Lendeborg adapts to life, losing in the NBA, Kyrie Irving has advice for Warriors’ rookie
-  [sports headline] Elevation gain? 49ers hope for an edge vs. Vikings in Mexico City by getting expletives out early
-  [sports headline] How is Gabby Williams feeling in Valkyries’ title afterglow? At home, and loving it
