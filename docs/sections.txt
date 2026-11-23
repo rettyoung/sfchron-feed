@@ -1,14 +1,16 @@
 Source used: google_news
-Kept: 35   Blocked: 4
+Kept: 31   Blocked: 5
 
 Kept, by section:
-    35  (unknown)
+    31  (unknown)
 
 Blocked, by reason:
      4  sports headline
+     1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers, Brock Purdy en fuego in Mexico City, torch Vikings’ NFL-best defense in rout
+  [sports headline] 49ers’ Colton McKivitz suffers season-ending leg injury in win vs. Vikings: 'Really crushing'
   [sports headline] 49ers-Vikings roundtable: Mexico City showdown between two of NFC’s best
-  [sports headline] 49ers will face an ‘elite defense’ Sunday. Can the team withstand Vikings’ rush?
   [sports headline] Santa Clara’s next mayor on 49ers: ‘They should stay out of city politics’
-  [sports headline] ‘It felt like a calling’: How 49ers’ Christian McCaffrey is fighting for veterans
+  [national headline] Melania Trump gives a peek inside her marriage, motherhood and more in new series
