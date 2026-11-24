@@ -1,16 +1,17 @@
 Source used: google_news
-Kept: 31   Blocked: 5
+Kept: 35   Blocked: 6
 
 Kept, by section:
-    31  (unknown)
+    35  (unknown)
 
 Blocked, by reason:
-     4  sports headline
+     5  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] How 49ers’ Brock Purdy dissected Vikings’ vaunted defense: ‘Best player in the game’
+  [sports headline] 49ers reach NFL’s summit after thrashing Vikings. Can they stay there? ‘We’re halfway’
   [sports headline] 49ers, Brock Purdy en fuego in Mexico City, torch Vikings’ NFL-best defense in rout
   [sports headline] 49ers’ Colton McKivitz suffers season-ending leg injury in win vs. Vikings: 'Really crushing'
+  [national headline] To clean up Trump’s mass deportation disaster, a single amnesty won’t be good enough
   [sports headline] 49ers-Vikings roundtable: Mexico City showdown between two of NFC’s best
-  [sports headline] Santa Clara’s next mayor on 49ers: ‘They should stay out of city politics’
-  [national headline] Melania Trump gives a peek inside her marriage, motherhood and more in new series
