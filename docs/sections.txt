@@ -1,14 +1,15 @@
 Source used: google_news
-Kept: 36   Blocked: 7
+Kept: 43   Blocked: 8
 
 Kept, by section:
-    36  (unknown)
+    43  (unknown)
 
 Blocked, by reason:
-     6  sports headline
+     7  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] One year after Ji’Ayir Brown’s curious claim of elite status, 49ers safety sounds prophetic
   [sports headline] How 49ers’ Brock Purdy dissected Vikings’ vaunted defense: ‘Best player in the game’
   [sports headline] 49ers reach NFL’s summit after thrashing Vikings. Can they stay there? ‘We’re halfway’
   [sports headline] 49ers, Brock Purdy en fuego in Mexico City, torch Vikings’ NFL-best defense in rout
