@@ -1,19 +1,17 @@
 Source used: google_news
-Kept: 43   Blocked: 8
+Kept: 38   Blocked: 7
 
 Kept, by section:
-    43  (unknown)
+    38  (unknown)
 
 Blocked, by reason:
      7  sports headline
-     1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Former 49ers WR Brandon Aiyuk to make long anticipated visit with Commanders
   [sports headline] One year after Ji’Ayir Brown’s curious claim of elite status, 49ers safety sounds prophetic
   [sports headline] How 49ers’ Brock Purdy dissected Vikings’ vaunted defense: ‘Best player in the game’
   [sports headline] 49ers reach NFL’s summit after thrashing Vikings. Can they stay there? ‘We’re halfway’
   [sports headline] 49ers, Brock Purdy en fuego in Mexico City, torch Vikings’ NFL-best defense in rout
   [sports headline] 49ers’ Colton McKivitz suffers season-ending leg injury in win vs. Vikings: 'Really crushing'
   [sports headline] Draymond Green turns back clock, helps Warriors edge Celtics to snap 5-game skid
-  [national headline] To clean up Trump’s mass deportation disaster, a single amnesty won’t be good enough
-  [sports headline] 49ers-Vikings roundtable: Mexico City showdown between two of NFC’s best
