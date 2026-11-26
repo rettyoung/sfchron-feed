@@ -1,14 +1,16 @@
 Source used: google_news
-Kept: 45   Blocked: 12
+Kept: 42   Blocked: 9
 
 Kept, by section:
-    45  (unknown)
+    42  (unknown)
 
 Blocked, by reason:
-    11  sports headline
+     8  sports headline
      1  national headline
 
 Blocked headlines (check for false positives):
+  [sports headline] Warriors’ Brandon Williams quickly makes impact in win over Kings
+  [sports headline] 49ers’ ‘unc package’ of Mike Evans, Keenan Allen catching passes, praise
   [sports headline] Lesson learned? 49ers’ Nick Bosa practices brevity after drawing boos in Mexico City
   [sports headline] Earthquakes make successful return to MLS playoffs with victory over Houston
   [sports headline] Former 49ers WR Brandon Aiyuk to make long anticipated visit with Commanders
@@ -16,8 +18,3 @@ Blocked headlines (check for false positives):
   [sports headline] One year after Ji’Ayir Brown’s curious claim of elite status, 49ers safety sounds prophetic
   [national headline] Letters: What Jensen Huang’s reinstatement as Nvidia’s CEO says about Trump’s presidency
   [sports headline] 49ers part with Brandon Aiyuk, ending fractious relationship with franchise receiver
-  [sports headline] How 49ers’ Brock Purdy dissected Vikings’ vaunted defense: ‘Best player in the game’
-  [sports headline] 49ers reach NFL’s summit after thrashing Vikings. Can they stay there? ‘We’re halfway’
-  [sports headline] 49ers, Brock Purdy en fuego in Mexico City, torch Vikings’ NFL-best defense in rout
-  [sports headline] 49ers’ Colton McKivitz suffers season-ending leg injury in win vs. Vikings: 'Really crushing'
-  [sports headline] Draymond Green turns back clock, helps Warriors edge Celtics to snap 5-game skid
