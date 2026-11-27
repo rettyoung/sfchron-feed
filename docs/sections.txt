@@ -1,8 +1,8 @@
 Source used: google_news
-Kept: 42   Blocked: 9
+Kept: 35   Blocked: 9
 
 Kept, by section:
-    42  (unknown)
+    35  (unknown)
 
 Blocked, by reason:
      8  sports headline
@@ -11,10 +11,10 @@ Blocked, by reason:
 Blocked headlines (check for false positives):
   [sports headline] Warriors’ Brandon Williams quickly makes impact in win over Kings
   [sports headline] 49ers’ ‘unc package’ of Mike Evans, Keenan Allen catching passes, praise
+  [sports headline] 49ers QB Brock Purdy held out of practice for ankle injury suffered in Mexico City game
   [sports headline] Lesson learned? 49ers’ Nick Bosa practices brevity after drawing boos in Mexico City
   [sports headline] Earthquakes make successful return to MLS playoffs with victory over Houston
   [sports headline] Former 49ers WR Brandon Aiyuk to make long anticipated visit with Commanders
   [sports headline] Valkyries’ Veronica Burton savors jersey retirement at her old high school
   [sports headline] One year after Ji’Ayir Brown’s curious claim of elite status, 49ers safety sounds prophetic
   [national headline] Letters: What Jensen Huang’s reinstatement as Nvidia’s CEO says about Trump’s presidency
-  [sports headline] 49ers part with Brandon Aiyuk, ending fractious relationship with franchise receiver
