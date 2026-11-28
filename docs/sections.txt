@@ -1,13 +1,14 @@
 Source used: google_news
-Kept: 33   Blocked: 6
+Kept: 34   Blocked: 7
 
 Kept, by section:
-    33  (unknown)
+    34  (unknown)
 
 Blocked, by reason:
-     6  sports headline
+     7  sports headline
 
 Blocked headlines (check for false positives):
+  [sports headline] 49ers QB Brock Purdy absent from Friday practice, ruled out vs. Seahawks Sunday
   [sports headline] Why even Trent Williams envies the high point of new 49ers starter Vederian Lowe’s career
   [sports headline] 49ers’ ‘unc package’ of Mike Evans, Keenan Allen catching passes, praise
   [sports headline] 49ers QB Brock Purdy held out of practice for ankle injury suffered in Mexico City game
